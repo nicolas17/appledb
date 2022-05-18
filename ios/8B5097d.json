@@ -1,0 +1,13 @@
+{
+  "osStr": "iOS",
+  "version": "4.1 beta 3",
+  "build": "8B5097d",
+  "released": "2010-08-03",
+  "beta": true,
+  "deviceMap": [],
+  "uniqueBuild": "8B5097d",
+  "sortVersion": "4.1 beta 3",
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware.html?os=iOS&build=8B5097d%7D"
+}

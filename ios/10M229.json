@@ -1,0 +1,37 @@
+{
+  "osStr": "MagSafe Charger Firmware",
+  "version": "2.47",
+  "build": "10M229",
+  "released": "2021-12-09",
+  "deviceMap": [
+    "MagSafe Charger"
+  ],
+  "sources": [
+    {
+      "deviceMap": [
+        "MagSafe Charger"
+      ],
+      "type": "ota",
+      "host": [
+        {
+          "value": "https://updates.cdn-apple.com",
+          "properties": [
+            "preferred",
+            "active"
+          ]
+        }
+      ],
+      "path": "/2021/patches/071-94517/FB6AC7D4-EBB5-467A-A4E9-6E2443264725/com_apple_MobileAsset_UARP_A2140/cd10d57729e80c42b4f92a36ba9319fa25c89532.zip"
+    }
+  ],
+  "uniqueBuild": "10M229",
+  "beta": false,
+  "sortVersion": "2.47",
+  "osType": "MagSafe Charger Firmware",
+  "devices": {
+    "MagSafe Charger": {
+      "ota": "https://updates.cdn-apple.com/2021/patches/071-94517/FB6AC7D4-EBB5-467A-A4E9-6E2443264725/com_apple_MobileAsset_UARP_A2140/cd10d57729e80c42b4f92a36ba9319fa25c89532.zip"
+    }
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=MagSafe%20Charger%20Firmware&build=10M229%7D"
+}

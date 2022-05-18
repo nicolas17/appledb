@@ -1,0 +1,17 @@
+{
+  "osStr": "Bluetooth Headset Firmware",
+  "version": "7.0.8",
+  "build": "7.0.8",
+  "deviceMap": [
+    "Beats Solo³ Wireless"
+  ],
+  "uniqueBuild": "7.0.8",
+  "beta": false,
+  "sortVersion": "7.0.8",
+  "released": -1,
+  "osType": "Bluetooth Headset Firmware",
+  "devices": {
+    "Beats Solo³ Wireless": {}
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=Bluetooth%20Headset%20Firmware&build=7.0.8%7D"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Beats Executive",
+  "type": "Beats Headphones",
+  "order": 5,
+  "devices": [
+    "Beats Executive"
+  ],
+  "hideChildren": false
+}

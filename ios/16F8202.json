@@ -1,0 +1,37 @@
+{
+  "osStr": "iOS",
+  "version": "12.3.1",
+  "build": "16F8202",
+  "released": "2019-05-29",
+  "deviceMap": [
+    "iPod9,1"
+  ],
+  "sources": [
+    {
+      "deviceMap": [
+        "iPod9,1"
+      ],
+      "type": "ipsw",
+      "host": [
+        {
+          "value": "https://updates.cdn-apple.com",
+          "properties": [
+            "preferred",
+            "active"
+          ]
+        }
+      ],
+      "path": "/2019SpringFCS/fullrestores/041-30482/C85F5F4A-7B54-11E9-AAB8-FFCFEC23CB72/iPodtouch_12.3.1_16F8202_Restore.ipsw"
+    }
+  ],
+  "uniqueBuild": "16F8202",
+  "beta": false,
+  "sortVersion": "12.3.1",
+  "osType": "iOS",
+  "devices": {
+    "iPod9,1": {
+      "ipsw": "https://updates.cdn-apple.com/2019SpringFCS/fullrestores/041-30482/C85F5F4A-7B54-11E9-AAB8-FFCFEC23CB72/iPodtouch_12.3.1_16F8202_Restore.ipsw"
+    }
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=iOS&build=16F8202%7D"
+}

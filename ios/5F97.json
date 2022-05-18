@@ -1,0 +1,13 @@
+{
+  "osStr": "iPhoneOS",
+  "version": "2.1 beta 2",
+  "build": "5F97",
+  "released": "2008-07-30",
+  "beta": true,
+  "deviceMap": [],
+  "uniqueBuild": "5F97",
+  "sortVersion": "2.1 beta 2",
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware.html?os=iPhoneOS&build=5F97%7D"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Magic Keyboard with Touch ID and Numeric Keypad",
+  "type": "Keyboard",
+  "order": 12,
+  "devices": [
+    "Magic Keyboard with Touch ID and Numeric Keypad"
+  ],
+  "hideChildren": false
+}

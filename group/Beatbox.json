@@ -1,0 +1,9 @@
+{
+  "name": "Beatbox",
+  "type": "Beats Speakers",
+  "order": 3,
+  "devices": [
+    "Beatbox"
+  ],
+  "hideChildren": false
+}

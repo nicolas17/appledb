@@ -1,0 +1,9 @@
+{
+  "name": "Beatbox Portable (3rd generation)",
+  "type": "Beats Speakers",
+  "order": 2,
+  "devices": [
+    "Beatbox Portable (3rd generation)"
+  ],
+  "hideChildren": false
+}

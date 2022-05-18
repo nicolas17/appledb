@@ -1,0 +1,9 @@
+{
+  "name": "Apple Pencil (2nd generation)",
+  "type": "Apple Pencil",
+  "order": 1,
+  "devices": [
+    "Apple Pencil (2nd generation)"
+  ],
+  "hideChildren": false
+}

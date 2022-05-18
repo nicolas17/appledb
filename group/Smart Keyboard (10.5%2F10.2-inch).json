@@ -1,0 +1,9 @@
+{
+  "name": "Smart Keyboard (10.5/10.2-inch)",
+  "type": "Keyboard",
+  "order": 5,
+  "devices": [
+    "Smart Keyboard (10.5/10.2-inch)"
+  ],
+  "hideChildren": false
+}

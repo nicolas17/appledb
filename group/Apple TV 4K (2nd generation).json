@@ -1,0 +1,9 @@
+{
+  "name": "Apple TV 4K (2nd generation)",
+  "type": "Apple TV",
+  "order": 5,
+  "devices": [
+    "AppleTV11,1"
+  ],
+  "hideChildren": false
+}

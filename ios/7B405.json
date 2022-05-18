@@ -1,0 +1,37 @@
+{
+  "osStr": "iPhoneOS",
+  "version": "3.2.1",
+  "build": "7B405",
+  "released": "2010-07-15",
+  "deviceMap": [
+    "iPad1,1"
+  ],
+  "sources": [
+    {
+      "deviceMap": [
+        "iPad1,1"
+      ],
+      "type": "ipsw",
+      "host": [
+        {
+          "value": "http://appldnld.apple.com",
+          "properties": [
+            "preferred",
+            "active"
+          ]
+        }
+      ],
+      "path": "/iPad/061-8282.20100713.vgtgh/iPad1,1_3.2.1_7B405_Restore.ipsw"
+    }
+  ],
+  "uniqueBuild": "7B405",
+  "beta": false,
+  "sortVersion": "3.2.1",
+  "osType": "iOS",
+  "devices": {
+    "iPad1,1": {
+      "ipsw": "http://appldnld.apple.com/iPad/061-8282.20100713.vgtgh/iPad1,1_3.2.1_7B405_Restore.ipsw"
+    }
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=iPhoneOS&build=7B405%7D"
+}

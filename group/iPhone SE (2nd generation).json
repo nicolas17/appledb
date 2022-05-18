@@ -1,0 +1,9 @@
+{
+  "name": "iPhone SE (2nd generation)",
+  "type": "iPhone",
+  "order": 18,
+  "devices": [
+    "iPhone12,8"
+  ],
+  "hideChildren": false
+}

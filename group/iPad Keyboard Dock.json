@@ -1,0 +1,9 @@
+{
+  "name": "iPad Keyboard Dock",
+  "type": "Keyboard",
+  "order": 0,
+  "devices": [
+    "iPad Keyboard Dock"
+  ],
+  "hideChildren": false
+}

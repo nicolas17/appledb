@@ -1,0 +1,19 @@
+{
+  "osStr": "Bluetooth Headset Firmware",
+  "version": "2C48",
+  "build": "2C48",
+  "deviceMap": [
+    "Beats Solo Pro",
+    "Powerbeats Pro"
+  ],
+  "uniqueBuild": "2C48",
+  "beta": false,
+  "sortVersion": "2C48",
+  "released": -1,
+  "osType": "Bluetooth Headset Firmware",
+  "devices": {
+    "Beats Solo Pro": {},
+    "Powerbeats Pro": {}
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=Bluetooth%20Headset%20Firmware&build=2C48%7D"
+}

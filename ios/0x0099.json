@@ -1,0 +1,17 @@
+{
+  "osStr": "Wireless Remote Firmware 2",
+  "version": "0x0099",
+  "build": "0x0099",
+  "deviceMap": [
+    "Siri Remote (1st generation, Rev A)"
+  ],
+  "uniqueBuild": "0x0099",
+  "beta": false,
+  "sortVersion": "0x0099",
+  "released": -1,
+  "osType": "Wireless Remote Firmware 2",
+  "devices": {
+    "Siri Remote (1st generation, Rev A)": {}
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=Wireless%20Remote%20Firmware%202&build=0x0099%7D"
+}

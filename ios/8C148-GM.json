@@ -1,0 +1,13 @@
+{
+  "osStr": "iOS",
+  "version": "4.2.1 GM",
+  "build": "8C148",
+  "uniqueBuild": "8C148-GM",
+  "released": "2010-11-18",
+  "beta": true,
+  "deviceMap": [],
+  "sortVersion": "4.2.1 GM",
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware.html?os=iOS&build=8C148-GM%7D"
+}

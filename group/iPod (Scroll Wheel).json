@@ -1,0 +1,9 @@
+{
+  "name": "iPod (Scroll Wheel)",
+  "type": "iPod",
+  "devices": [
+    "iPod (Scroll Wheel)"
+  ],
+  "hideChildren": false,
+  "order": 0
+}

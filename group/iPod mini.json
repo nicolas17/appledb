@@ -1,0 +1,9 @@
+{
+  "name": "iPod mini",
+  "type": "iPod mini",
+  "devices": [
+    "iPod mini"
+  ],
+  "hideChildren": false,
+  "order": 0
+}

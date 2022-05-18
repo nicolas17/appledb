@@ -1,0 +1,6455 @@
+{
+  "ADP3,2": {
+    "name": "Developer Transition Kit",
+    "identifier": "ADP3,2",
+    "soc": "A12Z",
+    "arch": "arm64e",
+    "type": "Developer Transition Kit",
+    "board": [
+      "J273aAP"
+    ],
+    "model": [
+      "A2330"
+    ],
+    "released": "2020-06-22",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "A12Z",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "7nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 8,
+        "Performance_Cores": "4 @ 2.49GHz",
+        "Efficiency_Cores": "4 @ 1.59GHz",
+        "L1_Cache": "2MB",
+        "L2_Cache": "8MB",
+        "GPU_Core_Count": 8,
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "2x USB-A",
+          "3.5 mm headphone jack",
+          "Gigabit Ethernet (Configurable to 10Gbps)",
+          "2x USB-C"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 2,
+        "Wi-Fi": "802.11ac Wi-Fi 5",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Memory",
+        "Storage": "512GB",
+        "RAM": "16GB"
+      }
+    ]
+  },
+  "AirPods1,1": {
+    "name": "AirPods (1st generation)",
+    "identifier": "AirPods1,1",
+    "type": "AirPods",
+    "soc": "W1",
+    "arch": "armv6",
+    "board": [
+      "B188AP"
+    ],
+    "model": [
+      "A1523",
+      "A1722",
+      "A1602"
+    ],
+    "released": "2016-12-13"
+  },
+  "AirPods1,2": {
+    "name": "AirPods (2nd generation)",
+    "identifier": "AirPods1,2",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B288AP"
+    ],
+    "model": [
+      "A2032",
+      "A2031",
+      "A1938"
+    ],
+    "released": "2019-03-20"
+  },
+  "AirPods1,3": {
+    "name": "AirPods (3rd generation)",
+    "identifier": "AirPods1,3",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B688AP"
+    ],
+    "model": [
+      "A2565",
+      "A2564",
+      "A2566"
+    ],
+    "released": "2021-10-26"
+  },
+  "AirPods2,1": {
+    "name": "AirPods (2nd generation)",
+    "identifier": "AirPods2,1",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B288AP"
+    ],
+    "model": [
+      "A2032",
+      "A2031",
+      "A1938"
+    ],
+    "released": "2019-03-20"
+  },
+  "AirPods2,2": {
+    "name": "AirPods Pro",
+    "identifier": "AirPods2,2",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B298AP"
+    ],
+    "model": [
+      "A2084",
+      "A2083",
+      "A2190"
+    ],
+    "released": "2019-10-30"
+  },
+  "AirPodsMax1,1": {
+    "name": "AirPods Max",
+    "identifier": "AirPodsMax1,1",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B515AP"
+    ],
+    "model": [
+      "A2096"
+    ],
+    "released": "2020-12-15"
+  },
+  "AirPodsPro1,1": {
+    "name": "AirPods Pro",
+    "identifier": "AirPodsPro1,1",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B298AP"
+    ],
+    "model": [
+      "A2084",
+      "A2083",
+      "A2190"
+    ],
+    "released": "2019-10-30"
+  },
+  "Audio2,1": {
+    "name": "AirPods (3rd generation)",
+    "identifier": "Audio2,1",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B688AP"
+    ],
+    "model": [
+      "A2565",
+      "A2564",
+      "A2566"
+    ],
+    "released": "2021-10-26"
+  },
+  "iProd8,1": {
+    "name": "AirPods Pro",
+    "identifier": "iProd8,1",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B298AP"
+    ],
+    "model": [
+      "A2084",
+      "A2083",
+      "A2190"
+    ],
+    "released": "2019-10-30"
+  },
+  "iProd8,6": {
+    "name": "AirPods Max",
+    "identifier": "iProd8,6",
+    "type": "AirPods",
+    "soc": "H1",
+    "arch": "armv7",
+    "board": [
+      "B515AP"
+    ],
+    "model": [
+      "A2096"
+    ],
+    "released": "2020-12-15"
+  },
+  "AirTag1,1": {
+    "name": "AirTag",
+    "identifier": "AirTag1,1",
+    "type": "AirTag",
+    "soc": "nRF52832",
+    "arch": "armv7",
+    "board": [
+      "B389AP"
+    ],
+    "model": [
+      "A2187"
+    ],
+    "released": "2021-04-30"
+  },
+  "afw1,5": {
+    "name": "AirTag",
+    "identifier": "afw1,5",
+    "type": "AirTag",
+    "soc": "nRF52832",
+    "arch": "armv7",
+    "board": [
+      "B389AP"
+    ],
+    "model": [
+      "A2187"
+    ],
+    "released": "2021-04-30"
+  },
+  "Apple Pencil (1st generation)": {
+    "name": "Apple Pencil (1st generation)",
+    "type": "Apple Pencil",
+    "soc": "STML151UCY6",
+    "arch": "armv7",
+    "board": [
+      "B222AP"
+    ],
+    "model": [
+      "A1603"
+    ],
+    "released": "2015-11-11",
+    "identifier": "Apple Pencil (1st generation)"
+  },
+  "Apple Pencil (2nd generation)": {
+    "name": "Apple Pencil (2nd generation)",
+    "type": "Apple Pencil",
+    "board": [
+      "B222AP"
+    ],
+    "model": [
+      "A2051"
+    ],
+    "released": "2018-11-07",
+    "identifier": "Apple Pencil (2nd generation)"
+  },
+  "AppleDisplay2,1": {
+    "name": "Studio Display",
+    "identifier": "AppleDisplay2,1",
+    "soc": "A13",
+    "arch": "arm64e",
+    "type": "Display",
+    "board": [
+      "J327AP"
+    ],
+    "model": [
+      "A2525"
+    ],
+    "released": "2022-03-18",
+    "info": [
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 5120,
+          "y": 2880
+        },
+        "Screen_Size": "27\"",
+        "Refresh_Rate": "60Hz",
+        "Peak_Brightness": "600 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "Pixels_per_Inch": 218
+      },
+      {
+        "type": "SoC",
+        "SoC": "A13",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "7nm enhanced"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 6,
+        "Performance_Cores": "2 @ 2.65GHz",
+        "Efficiency_Cores": "4",
+        "L1_Cache": "832KB",
+        "L2_Cache": "12MB",
+        "GPU_Core_Count": 4,
+        "Neural_Engine_Core_Count": 8
+      },
+      {
+        "type": "Memory",
+        "Storage": "64GB",
+        "RAM": "4GB"
+      }
+    ]
+  },
+  "AppleTV1,1": {
+    "name": "Apple TV (1st generation)",
+    "identifier": "AppleTV1,1",
+    "soc": "Pentium M",
+    "arch": "x86",
+    "type": "Apple TV",
+    "model": [
+      "A1218"
+    ],
+    "released": "2007-01-09",
+    "board": []
+  },
+  "AppleTV11,1": {
+    "name": "Apple TV 4K (2nd generation)",
+    "identifier": "AppleTV11,1",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "Apple TV",
+    "board": [
+      "J305AP"
+    ],
+    "model": [
+      "A2169"
+    ],
+    "released": "2021-05-21"
+  },
+  "AppleTV2,1": {
+    "name": "Apple TV (2nd generation)",
+    "identifier": "AppleTV2,1",
+    "soc": "A4",
+    "arch": "armv7",
+    "type": "Apple TV",
+    "board": [
+      "K66AP"
+    ],
+    "model": [
+      "A1378"
+    ],
+    "released": "2010-09-01"
+  },
+  "AppleTV3,1": {
+    "name": "Apple TV (3rd generation)",
+    "identifier": "AppleTV3,1",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "Apple TV",
+    "board": [
+      "J33AP"
+    ],
+    "model": [
+      "A1427"
+    ],
+    "released": "2012-03-07"
+  },
+  "AppleTV3,2": {
+    "name": "Apple TV (3rd generation, Rev A)",
+    "identifier": "AppleTV3,2",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "Apple TV",
+    "board": [
+      "J33IAP"
+    ],
+    "model": [
+      "A1469"
+    ],
+    "released": "2013-01-28"
+  },
+  "AppleTV5,3": {
+    "name": "Apple TV HD (4th generation)",
+    "identifier": "AppleTV5,3",
+    "soc": "A8",
+    "arch": "arm64",
+    "type": "Apple TV",
+    "board": [
+      "J42dAP"
+    ],
+    "model": [
+      "A1625"
+    ],
+    "released": "2015-10-30"
+  },
+  "AppleTV6,2": {
+    "name": "Apple TV 4K (1st generation)",
+    "identifier": "AppleTV6,2",
+    "soc": "A10X",
+    "arch": "arm64",
+    "type": "Apple TV",
+    "board": [
+      "J105aAP"
+    ],
+    "model": [
+      "A1842"
+    ],
+    "released": "2017-09-22"
+  },
+  "AudioAccessory1,1": {
+    "name": "HomePod",
+    "identifier": "AudioAccessory1,1",
+    "soc": "A8",
+    "arch": "arm64",
+    "type": "HomePod",
+    "board": [
+      "B238aAP"
+    ],
+    "model": [
+      "A1639"
+    ],
+    "released": "2018-02-09"
+  },
+  "AudioAccessory1,2": {
+    "name": "HomePod (Unknown Model)",
+    "identifier": "AudioAccessory1,2",
+    "soc": "A8",
+    "arch": "arm64",
+    "type": "HomePod",
+    "board": [
+      "B238AP"
+    ],
+    "released": "2018-02-09",
+    "model": []
+  },
+  "AudioAccessory5,1": {
+    "name": "HomePod mini",
+    "identifier": "AudioAccessory5,1",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "HomePod",
+    "board": [
+      "B520AP"
+    ],
+    "model": [
+      "A2374"
+    ],
+    "released": "2020-11-16"
+  },
+  "Beats Fit Pro": {
+    "name": "Beats Fit Pro",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2576",
+      "A2577",
+      "A2578"
+    ],
+    "released": "2021-11-01",
+    "identifier": "Beats Fit Pro",
+    "board": []
+  },
+  "Beats Flex fragment design Edition": {
+    "name": "Beats Flex fragment design Edition",
+    "type": "Beats Earbuds",
+    "soc": "W1",
+    "model": [
+      "A2295"
+    ],
+    "released": "2021-11-18",
+    "identifier": "Beats Flex fragment design Edition",
+    "board": []
+  },
+  "Beats Flex": {
+    "name": "Beats Flex",
+    "type": "Beats Earbuds",
+    "soc": "W1",
+    "model": [
+      "A2295"
+    ],
+    "released": "2021-10-21",
+    "identifier": "Beats Flex",
+    "board": []
+  },
+  "Beats Studio Buds Union Edition": {
+    "name": "Beats Studio Buds Union Edition",
+    "type": "Beats Earbuds",
+    "soc": "MediaTek TWS Chip",
+    "model": [
+      "A2512",
+      "A2513",
+      "A2514"
+    ],
+    "released": "2021-12-01",
+    "identifier": "Beats Studio Buds Union Edition",
+    "board": []
+  },
+  "Beats Studio Buds Year of the Tiger Edition": {
+    "name": "Beats Studio Buds Year of the Tiger Edition",
+    "type": "Beats Earbuds",
+    "soc": "MediaTek TWS Chip",
+    "model": [
+      "A2512",
+      "A2513",
+      "A2514"
+    ],
+    "released": "2022-01-01",
+    "identifier": "Beats Studio Buds Year of the Tiger Edition",
+    "board": []
+  },
+  "Beats Studio Buds": {
+    "name": "Beats Studio Buds",
+    "type": "Beats Earbuds",
+    "soc": "MediaTek TWS Chip",
+    "model": [
+      "A2512",
+      "A2513",
+      "A2514"
+    ],
+    "released": "2021-06-24",
+    "identifier": "Beats Studio Buds",
+    "board": []
+  },
+  "Beats Tour (1st generation)": {
+    "name": "Beats Tour (1st generation)",
+    "type": "Beats Earbuds",
+    "released": "2008-12-11",
+    "identifier": "Beats Tour (1st generation)",
+    "model": [],
+    "board": []
+  },
+  "Beats Tour 2.5": {
+    "name": "Beats Tour 2.5",
+    "type": "Beats Earbuds",
+    "model": [
+      "A1677"
+    ],
+    "identifier": "Beats Tour 2.5",
+    "board": []
+  },
+  "Beats Tour² MCM Edition": {
+    "name": "Beats Tour² MCM Edition",
+    "type": "Beats Earbuds",
+    "model": [
+      "A1677"
+    ],
+    "released": "2015-06-01",
+    "identifier": "Beats Tour² MCM Edition",
+    "board": []
+  },
+  "Beats Tour²": {
+    "name": "Beats Tour²",
+    "type": "Beats Earbuds",
+    "model": [
+      "A1677"
+    ],
+    "released": "2013-06-28",
+    "identifier": "Beats Tour²",
+    "board": []
+  },
+  "Beatsˣ UNDEFEATED Edition": {
+    "name": "Beatsˣ UNDEFEATED Edition",
+    "type": "Beats Earbuds",
+    "soc": "W1",
+    "model": [
+      "A1763"
+    ],
+    "released": "2018-09-19",
+    "identifier": "Beatsˣ UNDEFEATED Edition",
+    "board": []
+  },
+  "Beatsˣ sacai Edition": {
+    "name": "Beatsˣ sacai Edition",
+    "type": "Beats Earbuds",
+    "soc": "W1",
+    "model": [
+      "A1763"
+    ],
+    "released": "2019-03-04",
+    "identifier": "Beatsˣ sacai Edition",
+    "board": []
+  },
+  "Beatsˣ": {
+    "name": "Beatsˣ",
+    "type": "Beats Earbuds",
+    "soc": "W1",
+    "model": [
+      "A1763"
+    ],
+    "released": "2017-02-10",
+    "identifier": "Beatsˣ",
+    "board": []
+  },
+  "Diddybeats": {
+    "name": "Diddybeats",
+    "type": "Beats Earbuds",
+    "model": [
+      "129493",
+      "129496",
+      "129562",
+      "129565"
+    ],
+    "released": "2010-05-24",
+    "identifier": "Diddybeats",
+    "board": []
+  },
+  "Heartbeats (1st generation)": {
+    "name": "Heartbeats (1st generation)",
+    "type": "Beats Earbuds",
+    "model": [
+      "129443"
+    ],
+    "released": "2009-10-18",
+    "identifier": "Heartbeats (1st generation)",
+    "board": []
+  },
+  "Heartbeats (2nd generation)": {
+    "name": "Heartbeats (2nd generation)",
+    "type": "Beats Earbuds",
+    "released": "2011-07-13",
+    "identifier": "Heartbeats (2nd generation)",
+    "model": [],
+    "board": []
+  },
+  "NBA x Better Powerbeats Pro": {
+    "name": "NBA x Better Powerbeats Pro",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2047",
+      "A2048",
+      "A2078",
+      "A2453",
+      "A2454"
+    ],
+    "released": "2022-02-19",
+    "identifier": "NBA x Better Powerbeats Pro",
+    "board": []
+  },
+  "Powerbeats (1st generation) Lebron James Edition": {
+    "name": "Powerbeats (1st generation) Lebron James Edition",
+    "type": "Beats Earbuds",
+    "released": "2013-06-25",
+    "identifier": "Powerbeats (1st generation) Lebron James Edition",
+    "model": [],
+    "board": []
+  },
+  "Powerbeats (1st generation)": {
+    "name": "Powerbeats (1st generation)",
+    "type": "Beats Earbuds",
+    "released": "2010-09-29",
+    "identifier": "Powerbeats (1st generation)",
+    "model": [],
+    "board": []
+  },
+  "Powerbeats (4th generation) AMBUSH Glow Edition": {
+    "name": "Powerbeats (4th generation) AMBUSH Glow Edition",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2015"
+    ],
+    "released": "2020-11-18",
+    "identifier": "Powerbeats (4th generation) AMBUSH Glow Edition",
+    "board": []
+  },
+  "Powerbeats (4th generation)": {
+    "name": "Powerbeats (4th generation)",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2015"
+    ],
+    "released": "2020-03-16",
+    "identifier": "Powerbeats (4th generation)",
+    "board": []
+  },
+  "Powerbeats Pro FaZe Clan Edition": {
+    "name": "Powerbeats Pro FaZe Clan Edition",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2047",
+      "A2048",
+      "A2078",
+      "A2453",
+      "A2454"
+    ],
+    "released": "2021-03-22",
+    "identifier": "Powerbeats Pro FaZe Clan Edition",
+    "board": []
+  },
+  "Powerbeats Pro Samuel Ross SR_A Edition": {
+    "name": "Powerbeats Pro Samuel Ross SR_A Edition",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2047",
+      "A2048",
+      "A2078",
+      "A2453",
+      "A2454"
+    ],
+    "released": "2022-04-23",
+    "identifier": "Powerbeats Pro Samuel Ross SR_A Edition",
+    "board": []
+  },
+  "Powerbeats Pro Yellow Paria Farzaneh Edition": {
+    "name": "Powerbeats Pro Yellow Paria Farzaneh Edition",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2047",
+      "A2048",
+      "A2078",
+      "A2453",
+      "A2454"
+    ],
+    "released": "2022-05-06",
+    "identifier": "Powerbeats Pro Yellow Paria Farzaneh Edition",
+    "board": []
+  },
+  "Powerbeats Pro fragment design Edition": {
+    "name": "Powerbeats Pro fragment design Edition",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2047",
+      "A2048",
+      "A2078",
+      "A2453",
+      "A2454"
+    ],
+    "released": "2021-01-29",
+    "identifier": "Powerbeats Pro fragment design Edition",
+    "board": []
+  },
+  "Powerbeats Pro": {
+    "name": "Powerbeats Pro",
+    "type": "Beats Earbuds",
+    "soc": "H1",
+    "model": [
+      "A2047",
+      "A2048",
+      "A2078",
+      "A2453",
+      "A2454"
+    ],
+    "released": "2019-05-10",
+    "identifier": "Powerbeats Pro",
+    "board": []
+  },
+  "Powerbeats² Wireless KITH Edition": {
+    "name": "Powerbeats² Wireless KITH Edition",
+    "type": "Beats Earbuds",
+    "model": [
+      "B0516"
+    ],
+    "released": "2016-06-12",
+    "identifier": "Powerbeats² Wireless KITH Edition",
+    "board": []
+  },
+  "Powerbeats² Wireless UNDERCOVER Edition": {
+    "name": "Powerbeats² Wireless UNDERCOVER Edition",
+    "type": "Beats Earbuds",
+    "model": [
+      "B0516"
+    ],
+    "released": "2015-07",
+    "identifier": "Powerbeats² Wireless UNDERCOVER Edition",
+    "board": []
+  },
+  "Powerbeats² Wireless": {
+    "name": "Powerbeats² Wireless",
+    "type": "Beats Earbuds",
+    "model": [
+      "B0516"
+    ],
+    "released": "2014-06-12",
+    "identifier": "Powerbeats² Wireless",
+    "board": []
+  },
+  "Powerbeats²": {
+    "name": "Powerbeats²",
+    "type": "Beats Earbuds",
+    "model": [
+      "B0520"
+    ],
+    "released": "2015-01-06",
+    "identifier": "Powerbeats²",
+    "board": []
+  },
+  "Powerbeats³ Wireless Balmain Edition": {
+    "name": "Powerbeats³ Wireless Balmain Edition",
+    "type": "Beats Earbuds",
+    "soc": "W1",
+    "model": [
+      "A1747"
+    ],
+    "released": "2017-07-19",
+    "identifier": "Powerbeats³ Wireless Balmain Edition",
+    "board": []
+  },
+  "Powerbeats³ Wireless": {
+    "name": "Powerbeats³ Wireless",
+    "type": "Beats Earbuds",
+    "soc": "W1",
+    "model": [
+      "A1747"
+    ],
+    "released": "2016-10-26",
+    "identifier": "Powerbeats³ Wireless",
+    "board": []
+  },
+  "iBeats Justbeats": {
+    "name": "iBeats Justbeats",
+    "type": "Beats Earbuds",
+    "model": [
+      "128670"
+    ],
+    "released": "2010-12-10",
+    "identifier": "iBeats Justbeats",
+    "board": []
+  },
+  "iBeats": {
+    "name": "iBeats",
+    "type": "Beats Earbuds",
+    "model": [
+      "129584"
+    ],
+    "released": "2010-09-29",
+    "identifier": "iBeats",
+    "board": []
+  },
+  "urBeats (1st generation) Alexander Wang Edition": {
+    "name": "urBeats (1st generation) Alexander Wang Edition",
+    "type": "Beats Earbuds",
+    "released": "2013-12-23",
+    "identifier": "urBeats (1st generation) Alexander Wang Edition",
+    "model": [],
+    "board": []
+  },
+  "urBeats (1st generation) Hello Kitty Edition": {
+    "name": "urBeats (1st generation) Hello Kitty Edition",
+    "type": "Beats Earbuds",
+    "released": "2014",
+    "identifier": "urBeats (1st generation) Hello Kitty Edition",
+    "model": [],
+    "board": []
+  },
+  "urBeats (1st generation) Paris Saint-Germain Edition": {
+    "name": "urBeats (1st generation) Paris Saint-Germain Edition",
+    "type": "Beats Earbuds",
+    "released": "2014-05-09",
+    "identifier": "urBeats (1st generation) Paris Saint-Germain Edition",
+    "model": [],
+    "board": []
+  },
+  "urBeats (1st generation)": {
+    "name": "urBeats (1st generation)",
+    "type": "Beats Earbuds",
+    "model": [
+      "810-00055"
+    ],
+    "released": "2012-10-16",
+    "identifier": "urBeats (1st generation)",
+    "board": []
+  },
+  "urBeats SE": {
+    "name": "urBeats SE",
+    "type": "Beats Earbuds",
+    "released": "2013",
+    "identifier": "urBeats SE",
+    "model": [],
+    "board": []
+  },
+  "urBeats²": {
+    "name": "urBeats²",
+    "type": "Beats Earbuds",
+    "released": "2016-03-16",
+    "identifier": "urBeats²",
+    "model": [],
+    "board": []
+  },
+  "urBeats³": {
+    "name": "urBeats³",
+    "type": "Beats Earbuds",
+    "model": [
+      "A1750"
+    ],
+    "released": "2017-09-13",
+    "identifier": "urBeats³",
+    "board": []
+  },
+  "Beats Detox Pro": {
+    "name": "Beats Detox Pro",
+    "type": "Beats Headphones",
+    "model": [
+      "128677"
+    ],
+    "released": "2011-05-10",
+    "identifier": "Beats Detox Pro",
+    "board": []
+  },
+  "Beats EP": {
+    "name": "Beats EP",
+    "type": "Beats Headphones",
+    "model": [
+      "A1746"
+    ],
+    "released": "2016-09-07",
+    "identifier": "Beats EP",
+    "board": []
+  },
+  "Beats Executive": {
+    "name": "Beats Executive",
+    "type": "Beats Headphones",
+    "model": [
+      "900-00132"
+    ],
+    "released": "2012-10-16",
+    "identifier": "Beats Executive",
+    "board": []
+  },
+  "Beats Mixr": {
+    "name": "Beats Mixr",
+    "type": "Beats Headphones",
+    "model": [
+      "810-00034"
+    ],
+    "released": "2012-01-12",
+    "identifier": "Beats Mixr",
+    "board": []
+  },
+  "Beats Pro Fendi Edition": {
+    "name": "Beats Pro Fendi Edition",
+    "type": "Beats Headphones",
+    "released": [
+      "2016-01-18",
+      "2014-01"
+    ],
+    "identifier": "Beats Pro Fendi Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Pro Illest Edition": {
+    "name": "Beats Pro Illest Edition",
+    "type": "Beats Headphones",
+    "model": [],
+    "released": "2011-10-25",
+    "identifier": "Beats Pro Illest Edition",
+    "board": []
+  },
+  "Beats Pro Lamborghini Edition": {
+    "name": "Beats Pro Lamborghini Edition",
+    "type": "Beats Headphones",
+    "model": [],
+    "released": "2011-05-11",
+    "identifier": "Beats Pro Lamborghini Edition",
+    "board": []
+  },
+  "Beats Pro Lil Wayne Edition": {
+    "name": "Beats Pro Lil Wayne Edition",
+    "type": "Beats Headphones",
+    "model": [],
+    "released": "2013",
+    "identifier": "Beats Pro Lil Wayne Edition",
+    "board": []
+  },
+  "Beats Pro": {
+    "name": "Beats Pro",
+    "type": "Beats Headphones",
+    "model": [
+      "900-00175"
+    ],
+    "released": "2010-09-29",
+    "identifier": "Beats Pro",
+    "board": []
+  },
+  "Beats Solo HD BAPE Edition": {
+    "name": "Beats Solo HD BAPE Edition",
+    "type": "Beats Headphones",
+    "released": "2013-11-16",
+    "identifier": "Beats Solo HD BAPE Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Solo HD Paris Saint-Germain Edition": {
+    "name": "Beats Solo HD Paris Saint-Germain Edition",
+    "type": "Beats Headphones",
+    "released": "2014-03-15",
+    "identifier": "Beats Solo HD Paris Saint-Germain Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Solo HD": {
+    "name": "Beats Solo HD",
+    "type": "Beats Headphones",
+    "model": [
+      "900-00153"
+    ],
+    "released": "2010-03-01",
+    "identifier": "Beats Solo HD",
+    "board": []
+  },
+  "Beats Solo Pro Eastside Golf Edition": {
+    "name": "Beats Solo Pro Eastside Golf Edition",
+    "type": "Beats Headphones",
+    "soc": "H1",
+    "model": [
+      "A1881"
+    ],
+    "released": "2022-02-28",
+    "identifier": "Beats Solo Pro Eastside Golf Edition",
+    "board": []
+  },
+  "Beats Solo Pro": {
+    "name": "Beats Solo Pro",
+    "type": "Beats Headphones",
+    "soc": "H1",
+    "model": [
+      "A1881"
+    ],
+    "released": "2019-10-15",
+    "identifier": "Beats Solo Pro",
+    "board": []
+  },
+  "Beats Solo": {
+    "name": "Beats Solo",
+    "type": "Beats Headphones",
+    "identifier": "Beats Solo",
+    "model": [],
+    "board": []
+  },
+  "Beats Solo² Hello Kitty Edition": {
+    "name": "Beats Solo² Hello Kitty Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0518"
+    ],
+    "released": "2014",
+    "identifier": "Beats Solo² Hello Kitty Edition",
+    "board": []
+  },
+  "Beats Solo² Wireless MLB All-Star Edition": {
+    "name": "Beats Solo² Wireless MLB All-Star Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0534"
+    ],
+    "released": "2016-06-27",
+    "identifier": "Beats Solo² Wireless MLB All-Star Edition",
+    "board": []
+  },
+  "Beats Solo² Wireless Year of the Monkey Edition": {
+    "name": "Beats Solo² Wireless Year of the Monkey Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0534"
+    ],
+    "released": "2015-12-30",
+    "identifier": "Beats Solo² Wireless Year of the Monkey Edition",
+    "board": []
+  },
+  "Beats Solo² Wireless": {
+    "name": "Beats Solo² Wireless",
+    "type": "Beats Headphones",
+    "model": [
+      "B0534"
+    ],
+    "released": "2014-11-12",
+    "identifier": "Beats Solo² Wireless",
+    "board": []
+  },
+  "Beats Solo² fragment design Edition": {
+    "name": "Beats Solo² fragment design Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0518"
+    ],
+    "released": "2014-12-05",
+    "identifier": "Beats Solo² fragment design Edition",
+    "board": []
+  },
+  "Beats Solo²": {
+    "name": "Beats Solo²",
+    "type": "Beats Headphones",
+    "model": [
+      "B0518"
+    ],
+    "released": "2014-05-06",
+    "identifier": "Beats Solo²",
+    "board": []
+  },
+  "Beats Solo³ NAYVA Club Collection": {
+    "name": "Beats Solo³ NAYVA Club Collection",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1796"
+    ],
+    "released": "2019-06-12",
+    "identifier": "Beats Solo³ NAYVA Club Collection",
+    "board": []
+  },
+  "Beats Solo³ Wireless LINE Friends Edition": {
+    "name": "Beats Solo³ Wireless LINE Friends Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1796"
+    ],
+    "released": "2017-08-03",
+    "identifier": "Beats Solo³ Wireless LINE Friends Edition",
+    "board": []
+  },
+  "Beats Solo³ Wireless Mickey's 90th Anniversary Edition": {
+    "name": "Beats Solo³ Wireless Mickey's 90th Anniversary Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1796"
+    ],
+    "released": "2018-11-11",
+    "identifier": "Beats Solo³ Wireless Mickey's 90th Anniversary Edition",
+    "board": []
+  },
+  "Beats Solo³ Wireless New Year Special Edition": {
+    "name": "Beats Solo³ Wireless New Year Special Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1796"
+    ],
+    "released": "2019-01-04",
+    "identifier": "Beats Solo³ Wireless New Year Special Edition",
+    "board": []
+  },
+  "Beats Solo³ Wireless Third Man Records Edition": {
+    "name": "Beats Solo³ Wireless Third Man Records Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1796"
+    ],
+    "released": "2017-11-24",
+    "identifier": "Beats Solo³ Wireless Third Man Records Edition",
+    "board": []
+  },
+  "Beats Solo³ Wireless": {
+    "name": "Beats Solo³ Wireless",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1796"
+    ],
+    "released": "2016-09-07",
+    "identifier": "Beats Solo³ Wireless",
+    "board": []
+  },
+  "Beats Studio (1st generation) Harley Davidson Edition": {
+    "name": "Beats Studio (1st generation) Harley Davidson Edition",
+    "type": "Beats Headphones",
+    "released": "2012",
+    "identifier": "Beats Studio (1st generation) Harley Davidson Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Studio (1st generation) Illest Edition": {
+    "name": "Beats Studio (1st generation) Illest Edition",
+    "type": "Beats Headphones",
+    "model": [],
+    "released": "2012-11-17",
+    "identifier": "Beats Studio (1st generation) Illest Edition",
+    "board": []
+  },
+  "Beats Studio (1st generation) Maserati Edition": {
+    "name": "Beats Studio (1st generation) Maserati Edition",
+    "type": "Beats Headphones",
+    "released": "2011",
+    "identifier": "Beats Studio (1st generation) Maserati Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Studio (1st generation) Nate Robinson Edition": {
+    "name": "Beats Studio (1st generation) Nate Robinson Edition",
+    "type": "Beats Headphones",
+    "released": "2012",
+    "identifier": "Beats Studio (1st generation) Nate Robinson Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Studio (1st generation) Pigalle Edition": {
+    "name": "Beats Studio (1st generation) Pigalle Edition",
+    "type": "Beats Headphones",
+    "released": "2015-12-11",
+    "identifier": "Beats Studio (1st generation) Pigalle Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Studio (1st generation) Selfridges Edition": {
+    "name": "Beats Studio (1st generation) Selfridges Edition",
+    "type": "Beats Headphones",
+    "released": "2013-06-25",
+    "identifier": "Beats Studio (1st generation) Selfridges Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Studio (1st generation) Staple Design Edition": {
+    "name": "Beats Studio (1st generation) Staple Design Edition",
+    "type": "Beats Headphones",
+    "released": "2012-05-05",
+    "identifier": "Beats Studio (1st generation) Staple Design Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Studio (1st generation)": {
+    "name": "Beats Studio (1st generation)",
+    "type": "Beats Headphones",
+    "model": [
+      "129440"
+    ],
+    "released": "2008-07-25",
+    "identifier": "Beats Studio (1st generation)",
+    "board": []
+  },
+  "Beats Studio (2nd generation) Chief Keef Edition": {
+    "name": "Beats Studio (2nd generation) Chief Keef Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0500"
+    ],
+    "released": "2013-06-01",
+    "identifier": "Beats Studio (2nd generation) Chief Keef Edition",
+    "board": []
+  },
+  "Beats Studio (2nd generation)": {
+    "name": "Beats Studio (2nd generation)",
+    "type": "Beats Headphones",
+    "model": [
+      "B0500"
+    ],
+    "released": "2013",
+    "identifier": "Beats Studio (2nd generation)",
+    "board": []
+  },
+  "Beats Studio Wireless Alexander Wang Edition": {
+    "name": "Beats Studio Wireless Alexander Wang Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": [
+      "2013-12-23",
+      "2016-12"
+    ],
+    "identifier": "Beats Studio Wireless Alexander Wang Edition",
+    "board": []
+  },
+  "Beats Studio Wireless Balmain Edition": {
+    "name": "Beats Studio Wireless Balmain Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2017-07-19",
+    "identifier": "Beats Studio Wireless Balmain Edition",
+    "board": []
+  },
+  "Beats Studio Wireless Ellen Edition": {
+    "name": "Beats Studio Wireless Ellen Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2013-12",
+    "identifier": "Beats Studio Wireless Ellen Edition",
+    "board": []
+  },
+  "Beats Studio Wireless Gloss Gold Edition": {
+    "name": "Beats Studio Wireless Gloss Gold Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2015-01-13",
+    "identifier": "Beats Studio Wireless Gloss Gold Edition",
+    "board": []
+  },
+  "Beats Studio Wireless KITH Edition": {
+    "name": "Beats Studio Wireless KITH Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2015-11-27",
+    "identifier": "Beats Studio Wireless KITH Edition",
+    "board": []
+  },
+  "Beats Studio Wireless MCM Edition": {
+    "name": "Beats Studio Wireless MCM Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2015-06-01",
+    "identifier": "Beats Studio Wireless MCM Edition",
+    "board": []
+  },
+  "Beats Studio Wireless Pigalle Edition": {
+    "name": "Beats Studio Wireless Pigalle Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2015-12-11",
+    "identifier": "Beats Studio Wireless Pigalle Edition",
+    "board": []
+  },
+  "Beats Studio Wireless Snarkitecture Edition": {
+    "name": "Beats Studio Wireless Snarkitecture Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2014-05-29",
+    "identifier": "Beats Studio Wireless Snarkitecture Edition",
+    "board": []
+  },
+  "Beats Studio Wireless Unity Edition": {
+    "name": "Beats Studio Wireless Unity Edition",
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2016-08-03",
+    "identifier": "Beats Studio Wireless Unity Edition",
+    "board": []
+  },
+  "Beats Studio Wireless": {
+    "name": "Beats Studio Wireless",
+    "alias": [
+      "Beats Studio² Wireless"
+    ],
+    "type": "Beats Headphones",
+    "model": [
+      "B0501"
+    ],
+    "released": "2013",
+    "identifier": "Beats Studio Wireless",
+    "board": []
+  },
+  "Beats Studio³ Wireless ACW* Edition": {
+    "name": "Beats Studio³ Wireless ACW* Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2021-10-18",
+    "identifier": "Beats Studio³ Wireless ACW* Edition",
+    "board": []
+  },
+  "Beats Studio³ Wireless Cosmophone": {
+    "name": "Beats Studio³ Wireless Cosmophone",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2022-04-01",
+    "identifier": "Beats Studio³ Wireless Cosmophone",
+    "board": []
+  },
+  "Beats Studio³ Wireless DJ Khaled Edition": {
+    "name": "Beats Studio³ Wireless DJ Khaled Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2018-11-16",
+    "identifier": "Beats Studio³ Wireless DJ Khaled Edition",
+    "board": []
+  },
+  "Beats Studio³ Wireless FaZe Clan Edition": {
+    "name": "Beats Studio³ Wireless FaZe Clan Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2020-11-30",
+    "identifier": "Beats Studio³ Wireless FaZe Clan Edition",
+    "board": []
+  },
+  "Beats Studio³ Wireless Ghetto Gastro Edition": {
+    "name": "Beats Studio³ Wireless Ghetto Gastro Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2021-08-27",
+    "identifier": "Beats Studio³ Wireless Ghetto Gastro Edition",
+    "board": []
+  },
+  "Beats Studio³ Wireless NBA Collection": {
+    "name": "Beats Studio³ Wireless NBA Collection",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2019-02-14",
+    "identifier": "Beats Studio³ Wireless NBA Collection",
+    "board": []
+  },
+  "Beats Studio³ Wireless Neymar Jr. Custom Edition": {
+    "name": "Beats Studio³ Wireless Neymar Jr. Custom Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2019-02-06",
+    "identifier": "Beats Studio³ Wireless Neymar Jr. Custom Edition",
+    "board": []
+  },
+  "Beats Studio³ Wireless Psychworld Edition": {
+    "name": "Beats Studio³ Wireless Psychworld Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2021-04-22",
+    "identifier": "Beats Studio³ Wireless Psychworld Edition",
+    "board": []
+  },
+  "Beats Studio³ Wireless Violet Grey Edition": {
+    "name": "Beats Studio³ Wireless Violet Grey Edition",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2018-07-12",
+    "identifier": "Beats Studio³ Wireless Violet Grey Edition",
+    "board": []
+  },
+  "Beats Studio³ Wireless": {
+    "name": "Beats Studio³ Wireless",
+    "type": "Beats Headphones",
+    "soc": "W1",
+    "model": [
+      "A1914"
+    ],
+    "released": "2017-09-04",
+    "identifier": "Beats Studio³ Wireless",
+    "board": []
+  },
+  "Beats Wireless 1.5": {
+    "name": "Beats Wireless 1.5",
+    "type": "Beats Headphones",
+    "identifier": "Beats Wireless 1.5",
+    "model": [],
+    "board": []
+  },
+  "Beats Wireless": {
+    "name": "Beats Wireless",
+    "type": "Beats Headphones",
+    "model": [
+      "810‑00012"
+    ],
+    "identifier": "Beats Wireless",
+    "board": []
+  },
+  "JustBeats Solo": {
+    "name": "JustBeats Solo",
+    "type": "Beats Headphones",
+    "model": [
+      "129666"
+    ],
+    "released": "2010-12-10",
+    "identifier": "JustBeats Solo",
+    "board": []
+  },
+  "Beatbox Portable (1st generation)": {
+    "name": "Beatbox Portable (1st generation)",
+    "type": "Beats Speakers",
+    "model": [
+      "132913"
+    ],
+    "released": "2012-03-11",
+    "identifier": "Beatbox Portable (1st generation)",
+    "board": []
+  },
+  "Beatbox Portable (2nd generation)": {
+    "name": "Beatbox Portable (2nd generation)",
+    "type": "Beats Speakers",
+    "identifier": "Beatbox Portable (2nd generation)",
+    "model": [],
+    "board": []
+  },
+  "Beatbox Portable (3rd generation)": {
+    "name": "Beatbox Portable (3rd generation)",
+    "type": "Beats Speakers",
+    "identifier": "Beatbox Portable (3rd generation)",
+    "model": [],
+    "board": []
+  },
+  "Beatbox": {
+    "name": "Beatbox",
+    "type": "Beats Speakers",
+    "model": [
+      "132715"
+    ],
+    "released": "2010-09-29",
+    "identifier": "Beatbox",
+    "board": []
+  },
+  "Beats Pill (1st generation) Alexander Wang Edition": {
+    "name": "Beats Pill (1st generation) Alexander Wang Edition",
+    "type": "Beats Speakers",
+    "released": "2013-12-23",
+    "identifier": "Beats Pill (1st generation) Alexander Wang Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Pill (1st generation) Barry McGee Edition": {
+    "name": "Beats Pill (1st generation) Barry McGee Edition",
+    "type": "Beats Speakers",
+    "released": "2014-12-05",
+    "identifier": "Beats Pill (1st generation) Barry McGee Edition",
+    "model": [],
+    "board": []
+  },
+  "Beats Pill (1st generation)": {
+    "name": "Beats Pill (1st generation)",
+    "type": "Beats Speakers",
+    "model": [
+      "810-00057"
+    ],
+    "released": "2012-10-16",
+    "identifier": "Beats Pill (1st generation)",
+    "board": []
+  },
+  "Beats Pill (2nd generation) Barry McGee Edition": {
+    "name": "Beats Pill (2nd generation) Barry McGee Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": "2015-02-13",
+    "identifier": "Beats Pill (2nd generation) Barry McGee Edition",
+    "board": []
+  },
+  "Beats Pill (2nd generation) ColorWare Safari Edition": {
+    "name": "Beats Pill (2nd generation) ColorWare Safari Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": "2014-08-08",
+    "identifier": "Beats Pill (2nd generation) ColorWare Safari Edition",
+    "board": []
+  },
+  "Beats Pill (2nd generation) Gloss Gold Edition": {
+    "name": "Beats Pill (2nd generation) Gloss Gold Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": "2015-01-13",
+    "identifier": "Beats Pill (2nd generation) Gloss Gold Edition",
+    "board": []
+  },
+  "Beats Pill (2nd generation) KITH Edition": {
+    "name": "Beats Pill (2nd generation) KITH Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": [
+      "2014-06-25"
+    ],
+    "identifier": "Beats Pill (2nd generation) KITH Edition",
+    "board": []
+  },
+  "Beats Pill (2nd generation) MCM Edition": {
+    "name": "Beats Pill (2nd generation) MCM Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": "2015-06-01",
+    "identifier": "Beats Pill (2nd generation) MCM Edition",
+    "board": []
+  },
+  "Beats Pill (2nd generation) Nicki Minaj Edition": {
+    "name": "Beats Pill (2nd generation) Nicki Minaj Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": "2013-04-05",
+    "identifier": "Beats Pill (2nd generation) Nicki Minaj Edition",
+    "board": []
+  },
+  "Beats Pill (2nd generation) Shady Records Edition": {
+    "name": "Beats Pill (2nd generation) Shady Records Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": "2014-12-16",
+    "identifier": "Beats Pill (2nd generation) Shady Records Edition",
+    "board": []
+  },
+  "Beats Pill (2nd generation) fragment design Edition": {
+    "name": "Beats Pill (2nd generation) fragment design Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": "2014-12-05",
+    "identifier": "Beats Pill (2nd generation) fragment design Edition",
+    "board": []
+  },
+  "Beats Pill (2nd generation)": {
+    "name": "Beats Pill (2nd generation)",
+    "type": "Beats Speakers",
+    "model": [
+      "B0513"
+    ],
+    "released": "2013-12-01",
+    "identifier": "Beats Pill (2nd generation)",
+    "board": []
+  },
+  "Beats Pill SE": {
+    "name": "Beats Pill SE",
+    "type": "Beats Speakers",
+    "identifier": "Beats Pill SE",
+    "model": [],
+    "board": []
+  },
+  "Beats Pill XL": {
+    "name": "Beats Pill XL",
+    "type": "Beats Speakers",
+    "model": [
+      "B0514"
+    ],
+    "released": "2013-11-13",
+    "identifier": "Beats Pill XL",
+    "board": []
+  },
+  "Beats Pill+ FaZe Clan Edition": {
+    "name": "Beats Pill+ FaZe Clan Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "A1680"
+    ],
+    "released": "2020-05-31",
+    "identifier": "Beats Pill+ FaZe Clan Edition",
+    "board": []
+  },
+  "Beats Pill+ KAR AUDIO SYSTEM Edition": {
+    "name": "Beats Pill+ KAR AUDIO SYSTEM Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "A1680"
+    ],
+    "released": "2021-06-26",
+    "identifier": "Beats Pill+ KAR AUDIO SYSTEM Edition",
+    "board": []
+  },
+  "Beats Pill+ KITH Edition": {
+    "name": "Beats Pill+ KITH Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "A1680"
+    ],
+    "released": [
+      "2016-06-12"
+    ],
+    "identifier": "Beats Pill+ KITH Edition",
+    "board": []
+  },
+  "Beats Pill+ Quai 54 Edition": {
+    "name": "Beats Pill+ Quai 54 Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "A1680"
+    ],
+    "released": "2019-06-23",
+    "identifier": "Beats Pill+ Quai 54 Edition",
+    "board": []
+  },
+  "Beats Pill+ Stüssy Edition": {
+    "name": "Beats Pill+ Stüssy Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "A1680"
+    ],
+    "released": "2022-03-04",
+    "identifier": "Beats Pill+ Stüssy Edition",
+    "board": []
+  },
+  "Beats Pill+ The Malbons Edition": {
+    "name": "Beats Pill+ The Malbons Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "A1680"
+    ],
+    "released": "2020-11-12",
+    "identifier": "Beats Pill+ The Malbons Edition",
+    "board": []
+  },
+  "Beats Pill+ UNDEFEATED Edition": {
+    "name": "Beats Pill+ UNDEFEATED Edition",
+    "type": "Beats Speakers",
+    "model": [
+      "A1680"
+    ],
+    "released": "2018-09-19",
+    "identifier": "Beats Pill+ UNDEFEATED Edition",
+    "board": []
+  },
+  "Beats Pill+": {
+    "name": "Beats Pill+",
+    "type": "Beats Speakers",
+    "model": [
+      "A1680"
+    ],
+    "released": "2015-10-26",
+    "identifier": "Beats Pill+",
+    "board": []
+  },
+  "Pretty Sweet Pill": {
+    "name": "Pretty Sweet Pill",
+    "type": "Beats Speakers",
+    "model": [
+      "910-00042"
+    ],
+    "identifier": "Pretty Sweet Pill",
+    "board": []
+  },
+  "Magic Keyboard (11-inch)": {
+    "name": "Magic Keyboard (11-inch)",
+    "type": "Keyboard",
+    "model": [
+      "A2261"
+    ],
+    "released": "2020-03-18",
+    "identifier": "Magic Keyboard (11-inch)",
+    "board": []
+  },
+  "Magic Keyboard (1st generation)": {
+    "name": "Magic Keyboard (1st generation)",
+    "type": "Keyboard",
+    "model": [
+      "A1644"
+    ],
+    "released": "2015-10-13",
+    "identifier": "Magic Keyboard (1st generation)",
+    "board": []
+  },
+  "Magic Keyboard (2nd generation)": {
+    "name": "Magic Keyboard (2nd generation)",
+    "type": "Keyboard",
+    "model": [
+      "A2450"
+    ],
+    "released": "2021-05-21",
+    "identifier": "Magic Keyboard (2nd generation)",
+    "board": []
+  },
+  "Magic Keyboard for iPad Pro 12.9-inch (4th generation)": {
+    "name": "Magic Keyboard for iPad Pro 12.9-inch (4th generation)",
+    "type": "Keyboard",
+    "model": [
+      "A1998"
+    ],
+    "released": "2020-03-18",
+    "identifier": "Magic Keyboard for iPad Pro 12.9-inch (4th generation)",
+    "board": []
+  },
+  "Magic Keyboard for iPad Pro 12.9-inch (5th generation)": {
+    "name": "Magic Keyboard for iPad Pro 12.9-inch (5th generation)",
+    "type": "Keyboard",
+    "model": [
+      "A2480"
+    ],
+    "released": "2021-04-30",
+    "identifier": "Magic Keyboard for iPad Pro 12.9-inch (5th generation)",
+    "board": []
+  },
+  "Magic Keyboard with Numeric Keypad": {
+    "name": "Magic Keyboard with Numeric Keypad",
+    "type": "Keyboard",
+    "model": [
+      "A1843"
+    ],
+    "released": "2017-06-05",
+    "identifier": "Magic Keyboard with Numeric Keypad",
+    "board": []
+  },
+  "Magic Keyboard with Touch ID and Numeric Keypad": {
+    "name": "Magic Keyboard with Touch ID and Numeric Keypad",
+    "type": "Keyboard",
+    "model": [
+      "A2520"
+    ],
+    "released": "2021-05-21",
+    "identifier": "Magic Keyboard with Touch ID and Numeric Keypad",
+    "board": []
+  },
+  "Magic Keyboard with Touch ID": {
+    "name": "Magic Keyboard with Touch ID",
+    "type": "Keyboard",
+    "model": [
+      "A2449"
+    ],
+    "released": "2021-05-21",
+    "identifier": "Magic Keyboard with Touch ID",
+    "board": []
+  },
+  "Smart Keyboard (10.5/10.2-inch)": {
+    "name": "Smart Keyboard (10.5/10.2-inch)",
+    "type": "Keyboard",
+    "model": [
+      "A1829"
+    ],
+    "released": "2017-06-17",
+    "identifier": "Smart Keyboard (10.5/10.2-inch)",
+    "board": []
+  },
+  "Smart Keyboard (12.9-inch)": {
+    "name": "Smart Keyboard (12.9-inch)",
+    "type": "Keyboard",
+    "model": [
+      "A1636"
+    ],
+    "released": "2015-11-11",
+    "identifier": "Smart Keyboard (12.9-inch)",
+    "board": []
+  },
+  "Smart Keyboard (9.7-inch)": {
+    "name": "Smart Keyboard (9.7-inch)",
+    "type": "Keyboard",
+    "model": [
+      "A1772"
+    ],
+    "released": "2016-03-24",
+    "identifier": "Smart Keyboard (9.7-inch)",
+    "board": []
+  },
+  "Smart Keyboard Folio (11-inch)": {
+    "name": "Smart Keyboard Folio (11-inch)",
+    "type": "Keyboard",
+    "model": [
+      "A2038"
+    ],
+    "released": "2018-11-07",
+    "identifier": "Smart Keyboard Folio (11-inch)",
+    "board": []
+  },
+  "Smart Keyboard Folio (12.9-inch)": {
+    "name": "Smart Keyboard Folio (12.9-inch)",
+    "type": "Keyboard",
+    "model": [
+      "A2039"
+    ],
+    "released": "2018-11-07",
+    "identifier": "Smart Keyboard Folio (12.9-inch)",
+    "board": []
+  },
+  "iPad Keyboard Dock": {
+    "name": "iPad Keyboard Dock",
+    "type": "Keyboard",
+    "model": [
+      "A1359"
+    ],
+    "released": "2010-04-13",
+    "identifier": "iPad Keyboard Dock",
+    "board": []
+  },
+  "Mac13,1": {
+    "name": "Mac Studio (M1 Max)",
+    "identifier": "Mac13,1",
+    "soc": "M1 Max",
+    "arch": "arm64e",
+    "type": "Mac Studio",
+    "board": [
+      "J375cAP"
+    ],
+    "model": [
+      "A2615"
+    ],
+    "released": "2022-03-08",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1 Max",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 10,
+        "Performance_Cores": "8 @ 3.2GHz",
+        "Efficiency_Cores": "2 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "24MB",
+          "4MB"
+        ],
+        "System_Level_Cache": "48MB",
+        "GPU_Core_Count": [
+          24,
+          32
+        ],
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "6x USB-C",
+          "3.5 mm headphone jack",
+          "10Gbps Gigabit Ethernet",
+          "HDMI 2.0",
+          "SDXC card slot"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "Notes": "The two front USB-C ports only support 10Gbps USB 3 on M1 Max",
+        "External_Display_Count": 5,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "512GB",
+          "1TB",
+          "2TB",
+          "4TB",
+          "8TB"
+        ],
+        "RAM": [
+          "32GB",
+          "64GB"
+        ]
+      }
+    ]
+  },
+  "Mac13,2": {
+    "name": "Mac Studio (M1 Ultra)",
+    "identifier": "Mac13,2",
+    "soc": "M1 Ultra",
+    "arch": "arm64e",
+    "type": "Mac Studio",
+    "board": [
+      "J375dAP"
+    ],
+    "model": [
+      "A2615"
+    ],
+    "released": "2022-03-08",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1 Ultra",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 20,
+        "Performance_Cores": "16 @ 3.2GHz",
+        "Efficiency_Cores": "4 @ 2.0GHz",
+        "Instruction_Cache": [
+          "384KB",
+          "256KB"
+        ],
+        "Data_Cache": [
+          "256KB",
+          "128KB"
+        ],
+        "L2_Cache": [
+          "48MB",
+          "8MB"
+        ],
+        "System_Level_Cache": "96MB",
+        "GPU_Core_Count": [
+          24,
+          32,
+          48,
+          64
+        ],
+        "Neural_Engine_Core_Count": [
+          16,
+          32
+        ]
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "6x USB-C",
+          "3.5 mm headphone jack",
+          "10Gbps Gigabit Ethernet",
+          "HDMI 2.0",
+          "SDXC card slot"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 5,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "512GB",
+          "1TB",
+          "2TB",
+          "4TB",
+          "8TB"
+        ],
+        "RAM": [
+          "64GB",
+          "128GB"
+        ]
+      }
+    ]
+  },
+  "MacBook10,1": {
+    "name": "MacBook (Retina, 12-inch, 2017)",
+    "identifier": "MacBook10,1",
+    "arch": "x86",
+    "type": "MacBook",
+    "model": [],
+    "board": []
+  },
+  "MacBook5,2": {
+    "name": "MacBook (13-inch, Early 2009)",
+    "alias": [
+      "MacBook (13-inch, Mid 2009)"
+    ],
+    "identifier": "MacBook5,2",
+    "arch": "x86",
+    "type": "MacBook",
+    "model": [],
+    "board": []
+  },
+  "MacBook6,1": {
+    "name": "MacBook (13-inch, Late 2009)",
+    "identifier": "MacBook6,1",
+    "arch": "x86",
+    "type": "MacBook",
+    "model": [],
+    "board": []
+  },
+  "MacBook7,1": {
+    "name": "MacBook (13-inch, Mid 2010)",
+    "identifier": "MacBook7,1",
+    "arch": "x86",
+    "type": "MacBook",
+    "model": [],
+    "board": []
+  },
+  "MacBook8,1": {
+    "name": "MacBook (Retina, 12-inch, Early 2015)",
+    "identifier": "MacBook8,1",
+    "arch": "x86",
+    "type": "MacBook",
+    "model": [],
+    "board": []
+  },
+  "MacBook9,1": {
+    "name": "MacBook (Retina, 12-inch, Early 2016)",
+    "identifier": "MacBook9,1",
+    "arch": "x86",
+    "type": "MacBook",
+    "model": [],
+    "board": []
+  },
+  "MacBookAir10,1": {
+    "name": "MacBook Air (M1, Late 2020)",
+    "identifier": "MacBookAir10,1",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "MacBook Air",
+    "board": [
+      "J313AP"
+    ],
+    "model": [
+      "A2337"
+    ],
+    "released": "2020-11-10",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 8,
+        "Performance_Cores": "4 @ 3.2GHz",
+        "Efficiency_Cores": "4 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "12MB",
+          "4MB"
+        ],
+        "GPU_Core_Count": [
+          7,
+          8
+        ],
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "RAM": [
+          "8GB",
+          "16GB"
+        ]
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "49.9Wh",
+        "Battery_Life": "18 hours",
+        "Charger": "30W USB-C"
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "2x USB-C",
+          "3.5 mm headphone jack"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 1,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Sensors",
+        "Camera": "720p FaceTime HD camera",
+        "Biometrics": "Touch ID sensor",
+        "Microphone": "Three-mic array with directional beamforming",
+        "Other": [
+          "Ambient Light Sensor",
+          "Force Touch trackpad"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Channels": "Stereo",
+        "Dolby_Atmos": true,
+        "Headphone_Jack": true,
+        "Microphone": "Three-mic array with directional beamforming"
+      },
+      {
+        "type": "Input",
+        "Key_Count": [
+          "78 (USA)",
+          "79 (ISO)"
+        ],
+        "Trackpad": [
+          "Force Touch",
+          "Multi-touch"
+        ],
+        "Touch_Bar": false,
+        "Touch_ID": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 2560,
+          "y": 1600
+        },
+        "Screen_Size": "13.3\"",
+        "Refresh_Rate": "60 Hz",
+        "Peak_Brightness": "400 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": false,
+        "Pixels_per_Inch": 232
+      }
+    ]
+  },
+  "MacBookPro17,1": {
+    "name": "MacBook Pro (M1, Late 2020)",
+    "identifier": "MacBookPro17,1",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "MacBook Pro",
+    "board": [
+      "J293AP"
+    ],
+    "model": [
+      "A2338"
+    ],
+    "released": "2020-11-10",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 8,
+        "Performance_Cores": "4 @ 3.2GHz",
+        "Efficiency_Cores": "4 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "12MB",
+          "4MB"
+        ],
+        "GPU_Core_Count": 8,
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "RAM": [
+          "8GB",
+          "16GB"
+        ]
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "58.2Wh",
+        "Battery_Life": "20 hours",
+        "Charger": "61W USB-C"
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "2x USB-C",
+          "3.5 mm headphone jack"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 1,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Sensors",
+        "Camera": "720p FaceTime HD camera",
+        "Biometrics": "Touch ID sensor",
+        "Microphone": "Three-mic array with directional beamforming",
+        "Other": [
+          "Ambient Light Sensor",
+          "Force Touch trackpad"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Channels": "Stereo",
+        "Dolby_Atmos": true,
+        "Headphone_Jack": true,
+        "Microphone": "Three-mic array with directional beamforming"
+      },
+      {
+        "type": "Input",
+        "Key_Count": [
+          "65 (USA)",
+          "66 (ISO)"
+        ],
+        "Trackpad": [
+          "Force Touch",
+          "Multi-touch"
+        ],
+        "Touch_Bar": true,
+        "Touch_ID": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 2560,
+          "y": 1600
+        },
+        "Screen_Size": "13.3\"",
+        "Refresh_Rate": "60 Hz",
+        "Peak_Brightness": "400 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": false,
+        "Pixels_per_Inch": 232
+      }
+    ]
+  },
+  "MacBookPro18,1": {
+    "name": "MacBook Pro (M1 Pro, 16-inch, 2021)",
+    "identifier": "MacBookPro18,1",
+    "soc": "M1 Pro",
+    "arch": "arm64e",
+    "type": "MacBook Pro",
+    "board": [
+      "J316sAP"
+    ],
+    "model": [
+      "A2485"
+    ],
+    "released": "2021-10-18",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1 Pro",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 10,
+        "Performance_Cores": "8 @ 3.2GHz",
+        "Efficiency_Cores": "2 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "24MB",
+          "4MB"
+        ],
+        "System_Level_Cache": "24MB",
+        "GPU_Core_Count": [
+          16,
+          24
+        ],
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "512GB",
+          "1TB",
+          "2TB",
+          "4TB",
+          "8TB"
+        ],
+        "RAM": [
+          "16GB",
+          "32GB"
+        ]
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "100Wh",
+        "Battery_Life": "21 hours",
+        "Charger": "140W MagSafe 3"
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "3x USB-C",
+          "MagSafe 3",
+          "HDMI 2.0",
+          "SDXC card slot",
+          "3.5 mm headphone jack"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 3,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Sensors",
+        "Camera": "1080p FaceTime HD camera",
+        "Biometrics": "Touch ID sensor",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming",
+        "Other": [
+          "Ambient Light Sensor",
+          "Force Touch trackpad"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Speakers": "High-fidelity six-speaker sound system with force-cancelling woofers",
+        "Channels": "Stereo",
+        "Dolby_Atmos": true,
+        "Headphone_Jack": "High impedence",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming"
+      },
+      {
+        "type": "Input",
+        "Key_Count": [
+          "78 (USA)",
+          "79 (ISO)"
+        ],
+        "Trackpad": [
+          "Force Touch",
+          "Multi-touch"
+        ],
+        "Touch_Bar": false,
+        "Touch_ID": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 3456,
+          "y": 2234
+        },
+        "Screen_Size": "16.2\"",
+        "Refresh_Rate": "120 Hz",
+        "Peak_Brightness": "1600 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": true,
+        "Pixels_per_Inch": 257
+      }
+    ]
+  },
+  "MacBookPro18,2": {
+    "name": "MacBook Pro (M1 Max, 16-inch, 2021)",
+    "identifier": "MacBookPro18,2",
+    "soc": "M1 Max",
+    "arch": "arm64e",
+    "type": "MacBook Pro",
+    "board": [
+      "J316cAP"
+    ],
+    "model": [
+      "A2485"
+    ],
+    "released": "2021-10-18",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1 Max",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 10,
+        "Performance_Cores": "8 @ 3.2GHz",
+        "Efficiency_Cores": "2 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "24MB",
+          "4MB"
+        ],
+        "System_Level_Cache": "48MB",
+        "GPU_Core_Count": [
+          24,
+          32
+        ],
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "512GB",
+          "1TB",
+          "2TB",
+          "4TB",
+          "8TB"
+        ],
+        "RAM": [
+          "32GB",
+          "64GB"
+        ]
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "100Wh",
+        "Battery_Life": "21 hours",
+        "Charger": "140W MagSafe 3"
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "3x USB-C",
+          "MagSafe 3",
+          "HDMI 2.0",
+          "SDXC card slot",
+          "3.5 mm headphone jack"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 4,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Sensors",
+        "Camera": "1080p FaceTime HD camera",
+        "Biometrics": "Touch ID sensor",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming",
+        "Other": [
+          "Ambient Light Sensor",
+          "Force Touch trackpad"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Speakers": "High-fidelity six-speaker sound system with force-cancelling woofers",
+        "Channels": "Stereo",
+        "Dolby_Atmos": true,
+        "Headphone_Jack": "High impedence",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming"
+      },
+      {
+        "type": "Input",
+        "Key_Count": [
+          "78 (USA)",
+          "79 (ISO)"
+        ],
+        "Trackpad": [
+          "Force Touch",
+          "Multi-touch"
+        ],
+        "Touch_Bar": false,
+        "Touch_ID": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 3456,
+          "y": 2234
+        },
+        "Screen_Size": "16.2\"",
+        "Refresh_Rate": "120 Hz",
+        "Peak_Brightness": "1600 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": true,
+        "Pixels_per_Inch": 257
+      }
+    ]
+  },
+  "MacBookPro18,3": {
+    "name": "MacBook Pro (M1 Pro, 14-inch, 2021)",
+    "identifier": "MacBookPro18,3",
+    "soc": "M1 Pro",
+    "arch": "arm64e",
+    "type": "MacBook Pro",
+    "board": [
+      "J314sAP"
+    ],
+    "model": [
+      "A2442"
+    ],
+    "released": "2021-10-18",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1 Pro",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": [
+          8,
+          10
+        ],
+        "Performance_Cores": [
+          "6 @ 3.2GHz",
+          "8 @ 3.2GHz"
+        ],
+        "Efficiency_Cores": "2 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "24MB",
+          "4MB"
+        ],
+        "System_Level_Cache": "24MB",
+        "GPU_Core_Count": [
+          14,
+          16
+        ],
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "512GB",
+          "1TB",
+          "2TB",
+          "4TB",
+          "8TB"
+        ],
+        "RAM": [
+          "16GB",
+          "32GB"
+        ]
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "70Wh",
+        "Battery_Life": "17 hours",
+        "Charger": [
+          "67W MagSafe 3",
+          "96W MagSafe 3"
+        ]
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "3x USB-C",
+          "MagSafe 3",
+          "HDMI 2.0",
+          "SDXC card slot",
+          "3.5 mm headphone jack"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 3,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Sensors",
+        "Camera": "1080p FaceTime HD camera",
+        "Biometrics": "Touch ID sensor",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming",
+        "Other": [
+          "Ambient Light Sensor",
+          "Force Touch trackpad"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Speakers": "High-fidelity six-speaker sound system with force-cancelling woofers",
+        "Channels": "Stereo",
+        "Dolby_Atmos": true,
+        "Headphone_Jack": "High impedence",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming"
+      },
+      {
+        "type": "Input",
+        "Key_Count": [
+          "78 (USA)",
+          "79 (ISO)"
+        ],
+        "Trackpad": [
+          "Force Touch",
+          "Multi-touch"
+        ],
+        "Touch_Bar": false,
+        "Touch_ID": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 3024,
+          "y": 1964
+        },
+        "Screen_Size": "14.2\"",
+        "Refresh_Rate": "120 Hz",
+        "Peak_Brightness": "1600 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": true,
+        "Pixels_per_Inch": 258
+      }
+    ]
+  },
+  "MacBookPro18,4": {
+    "name": "MacBook Pro (M1 Max, 14-inch, 2021)",
+    "identifier": "MacBookPro18,4",
+    "soc": "M1 Max",
+    "arch": "arm64e",
+    "type": "MacBook Pro",
+    "board": [
+      "J314cAP"
+    ],
+    "model": [
+      "A2485"
+    ],
+    "released": "2021-10-18",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1 Max",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 10,
+        "Performance_Cores": "8 @ 3.2GHz",
+        "Efficiency_Cores": "2 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "24MB",
+          "4MB"
+        ],
+        "System_Level_Cache": "48MB",
+        "GPU_Core_Count": [
+          24,
+          32
+        ],
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "512GB",
+          "1TB",
+          "2TB",
+          "4TB",
+          "8TB"
+        ],
+        "RAM": [
+          "32GB",
+          "64GB"
+        ]
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "70Wh",
+        "Battery_Life": "17 hours",
+        "Charger": "96W MagSafe 3"
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "3x USB-C",
+          "MagSafe 3",
+          "HDMI 2.0",
+          "SDXC card slot",
+          "3.5 mm headphone jack"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 4,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Sensors",
+        "Camera": "1080p FaceTime HD camera",
+        "Biometrics": "Touch ID sensor",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming",
+        "Other": [
+          "Ambient Light Sensor",
+          "Force Touch trackpad"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Speakers": "High-fidelity six-speaker sound system with force-cancelling woofers",
+        "Channels": "Stereo",
+        "Dolby_Atmos": true,
+        "Headphone_Jack": "High impedence",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming"
+      },
+      {
+        "type": "Input",
+        "Key_Count": [
+          "78 (USA)",
+          "79 (ISO)"
+        ],
+        "Trackpad": [
+          "Force Touch",
+          "Multi-touch"
+        ],
+        "Touch_Bar": false,
+        "Touch_ID": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 3024,
+          "y": 1964
+        },
+        "Screen_Size": "14.2\"",
+        "Refresh_Rate": "120 Hz",
+        "Peak_Brightness": "1600 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": true,
+        "Pixels_per_Inch": 258
+      }
+    ]
+  },
+  "Macmini9,1": {
+    "name": "Mac mini (M1, Late 2020)",
+    "identifier": "Macmini9,1",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "Mac mini",
+    "board": [
+      "J274AP"
+    ],
+    "model": [
+      "A2348"
+    ],
+    "released": "2020-11-10",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 8,
+        "Performance_Cores": "4 @ 3.2GHz",
+        "Efficiency_Cores": "4 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "12MB",
+          "4MB"
+        ],
+        "GPU_Core_Count": 8,
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "2x USB-A",
+          "3.5 mm headphone jack",
+          "Gigabit Ethernet (Configurable to 10Gbps)",
+          "2x USB-C"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 2,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0"
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "RAM": [
+          "8GB",
+          "16GB"
+        ]
+      }
+    ]
+  },
+  "MagSafe Battery Pack": {
+    "name": "MagSafe Battery Pack",
+    "type": "Power",
+    "model": [
+      "A2384"
+    ],
+    "released": "2021-07-13",
+    "identifier": "MagSafe Battery Pack",
+    "board": []
+  },
+  "MagSafe Charger": {
+    "name": "MagSafe Charger",
+    "type": "Power",
+    "model": [
+      "A2140"
+    ],
+    "released": "2021-10-16",
+    "identifier": "MagSafe Charger",
+    "board": []
+  },
+  "USB-C to MagSafe 3 Cable (2 m)": {
+    "name": "USB-C to MagSafe 3 Cable (2 m)",
+    "type": "Power",
+    "model": [
+      "A2363"
+    ],
+    "released": "2021-10-18",
+    "identifier": "USB-C to MagSafe 3 Cable (2 m)",
+    "board": []
+  },
+  "iPhone 11 Pro Max Smart Battery Case": {
+    "name": "iPhone 11 Pro Max Smart Battery Case",
+    "type": "Power",
+    "model": [
+      "A2180"
+    ],
+    "released": "2019-11-20",
+    "identifier": "iPhone 11 Pro Max Smart Battery Case",
+    "board": []
+  },
+  "iPhone 11 Pro Smart Battery Case": {
+    "name": "iPhone 11 Pro Smart Battery Case",
+    "type": "Power",
+    "model": [
+      "A2184"
+    ],
+    "released": "2019-11-20",
+    "identifier": "iPhone 11 Pro Smart Battery Case",
+    "board": []
+  },
+  "iPhone 11 Smart Battery Case": {
+    "name": "iPhone 11 Smart Battery Case",
+    "type": "Power",
+    "model": [
+      "A2183"
+    ],
+    "released": "2019-11-20",
+    "identifier": "iPhone 11 Smart Battery Case",
+    "board": []
+  },
+  "iPhone 6s Smart Battery Case": {
+    "name": "iPhone 6s Smart Battery Case",
+    "type": "Power",
+    "model": [
+      "A1585"
+    ],
+    "released": "2015-12-08",
+    "identifier": "iPhone 6s Smart Battery Case",
+    "board": []
+  },
+  "iPhone 7 Smart Battery Case": {
+    "name": "iPhone 7 Smart Battery Case",
+    "type": "Power",
+    "model": [
+      "A1765"
+    ],
+    "released": "2015-12-08",
+    "identifier": "iPhone 7 Smart Battery Case",
+    "board": []
+  },
+  "iPhone XR Smart Battery Case": {
+    "name": "iPhone XR Smart Battery Case",
+    "type": "Power",
+    "model": [
+      "A2121"
+    ],
+    "released": "2019-01-18",
+    "identifier": "iPhone XR Smart Battery Case",
+    "board": []
+  },
+  "iPhone XS Max Smart Battery Case": {
+    "name": "iPhone XS Max Smart Battery Case",
+    "type": "Power",
+    "model": [
+      "A2071"
+    ],
+    "released": "2019-01-18",
+    "identifier": "iPhone XS Max Smart Battery Case",
+    "board": []
+  },
+  "iPhone XS Smart Battery Case": {
+    "name": "iPhone XS Smart Battery Case",
+    "type": "Power",
+    "model": [
+      "A2070"
+    ],
+    "released": "2019-01-18",
+    "identifier": "iPhone XS Smart Battery Case",
+    "board": []
+  },
+  "Apple Remote (aluminum)": {
+    "name": "Apple Remote (aluminum)",
+    "type": "Remote",
+    "model": [
+      "A1294"
+    ],
+    "released": "2009-10-20",
+    "identifier": "Apple Remote (aluminum)",
+    "board": []
+  },
+  "Apple Remote (white)": {
+    "name": "Apple Remote (white)",
+    "type": "Remote",
+    "model": [
+      "A1156"
+    ],
+    "released": "2005-10-12",
+    "identifier": "Apple Remote (white)",
+    "board": []
+  },
+  "Siri Remote (1st generation)": {
+    "name": "Siri Remote (1st generation)",
+    "type": "Remote",
+    "board": [
+      "B239AP"
+    ],
+    "model": [
+      "A1513"
+    ],
+    "released": "2015-10-26",
+    "identifier": "Siri Remote (1st generation)"
+  },
+  "Siri Remote (1st generation, Rev A)": {
+    "name": "Siri Remote (1st generation, Rev A)",
+    "type": "Remote",
+    "board": [
+      "B439AP"
+    ],
+    "model": [
+      "A1962"
+    ],
+    "released": "2017-09-12",
+    "identifier": "Siri Remote (1st generation, Rev A)"
+  },
+  "Siri Remote (2nd generation)": {
+    "name": "Siri Remote (2nd generation)",
+    "type": "Remote",
+    "model": [
+      "A2540"
+    ],
+    "released": "2021-05-21",
+    "identifier": "Siri Remote (2nd generation)",
+    "board": []
+  },
+  "Watch1,1": {
+    "name": "Apple Watch (1st generation) (38mm)",
+    "identifier": "Watch1,1",
+    "soc": "S1",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N27aAP"
+    ],
+    "model": [
+      "A1553"
+    ],
+    "released": [
+      "2015-03-09",
+      "2015-09-09"
+    ]
+  },
+  "Watch1,2": {
+    "name": "Apple Watch (1st generation) (42mm)",
+    "identifier": "Watch1,2",
+    "soc": "S1",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N28aAP"
+    ],
+    "model": [
+      "A1554"
+    ],
+    "released": [
+      "2015-03-09",
+      "2015-09-09"
+    ]
+  },
+  "Watch2,3": {
+    "name": "Apple Watch Series 2 (38mm)",
+    "identifier": "Watch2,3",
+    "soc": "S2",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N74AP"
+    ],
+    "model": [
+      "A1757",
+      "A1816"
+    ],
+    "released": "2016-09-07"
+  },
+  "Watch2,4": {
+    "name": "Apple Watch Series 2 (42mm)",
+    "identifier": "Watch2,4",
+    "soc": "S2",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N75AP"
+    ],
+    "model": [
+      "A1758",
+      "A1817"
+    ],
+    "released": "2016-09-07"
+  },
+  "Watch2,6": {
+    "name": "Apple Watch Series 1 (38mm)",
+    "identifier": "Watch2,6",
+    "soc": "S1P",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N27dAP"
+    ],
+    "model": [
+      "A1802"
+    ],
+    "released": "2016-09-07"
+  },
+  "Watch2,7": {
+    "name": "Apple Watch Series 1 (42mm)",
+    "identifier": "Watch2,7",
+    "soc": "S1P",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N28dAP"
+    ],
+    "model": [
+      "A1803"
+    ],
+    "released": "2016-09-07"
+  },
+  "Watch3,1": {
+    "name": "Apple Watch Series 3 (GPS + Cellular, 38mm)",
+    "identifier": "Watch3,1",
+    "soc": "S3",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N111sAP"
+    ],
+    "model": [
+      "A1860",
+      "A1889",
+      "A1890"
+    ],
+    "released": "2017-09-12"
+  },
+  "Watch3,2": {
+    "name": "Apple Watch Series 3 (GPS + Cellular, 42mm)",
+    "identifier": "Watch3,2",
+    "soc": "S3",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N111bAP"
+    ],
+    "model": [
+      "A1861",
+      "A1891",
+      "A1892"
+    ],
+    "released": "2017-09-12"
+  },
+  "Watch3,3": {
+    "name": "Apple Watch Series 3 (GPS, 38mm)",
+    "identifier": "Watch3,3",
+    "soc": "S3",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N121sAP"
+    ],
+    "model": [
+      "A1858"
+    ],
+    "released": "2017-09-12"
+  },
+  "Watch3,4": {
+    "name": "Apple Watch Series 3 (GPS, 42mm)",
+    "identifier": "Watch3,4",
+    "soc": "S3",
+    "arch": "armv7k",
+    "type": "Apple Watch",
+    "board": [
+      "N121bAP"
+    ],
+    "model": [
+      "A1859"
+    ],
+    "released": "2017-09-12"
+  },
+  "Watch4,1": {
+    "name": "Apple Watch Series 4 (GPS, 40mm)",
+    "identifier": "Watch4,1",
+    "soc": "S4",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N131sAP"
+    ],
+    "model": [
+      "A1977"
+    ],
+    "released": "2018-09-12"
+  },
+  "Watch4,2": {
+    "name": "Apple Watch Series 4 (GPS, 44mm)",
+    "identifier": "Watch4,2",
+    "soc": "S4",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N131bAP"
+    ],
+    "model": [
+      "A1978"
+    ],
+    "released": "2018-09-12"
+  },
+  "Watch4,3": {
+    "name": "Apple Watch Series 4 (GPS + Cellular, 40mm)",
+    "identifier": "Watch4,3",
+    "soc": "S4",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N141sAP"
+    ],
+    "model": [
+      "A1975",
+      "A2007"
+    ],
+    "released": "2018-09-12"
+  },
+  "Watch4,4": {
+    "name": "Apple Watch Series 4 (GPS + Cellular, 44mm)",
+    "identifier": "Watch4,4",
+    "soc": "S4",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N141bAP"
+    ],
+    "model": [
+      "A1976",
+      "A2008"
+    ],
+    "released": "2018-09-12"
+  },
+  "Watch5,1": {
+    "name": "Apple Watch Series 5 (GPS, 40mm)",
+    "identifier": "Watch5,1",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N144sAP"
+    ],
+    "model": [
+      "A2092"
+    ],
+    "released": "2019-09-10"
+  },
+  "Watch5,10": {
+    "name": "Apple Watch SE (GPS, 44mm)",
+    "identifier": "Watch5,10",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N140bAP"
+    ],
+    "model": [
+      "A2352"
+    ],
+    "released": "2020-09-15"
+  },
+  "Watch5,11": {
+    "name": "Apple Watch SE (GPS + Cellular, 44mm)",
+    "identifier": "Watch5,11",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N142sAP"
+    ],
+    "model": [
+      "A2353",
+      "A2355"
+    ],
+    "released": "2020-09-15"
+  },
+  "Watch5,12": {
+    "name": "Apple Watch SE (GPS + Cellular, 44mm)",
+    "identifier": "Watch5,12",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N142bAP"
+    ],
+    "model": [
+      "A2354",
+      "A2356"
+    ],
+    "released": "2020-09-15"
+  },
+  "Watch5,2": {
+    "name": "Apple Watch Series 5 (GPS, 44mm)",
+    "identifier": "Watch5,2",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N144bAP"
+    ],
+    "model": [
+      "A2093"
+    ],
+    "released": "2019-09-10"
+  },
+  "Watch5,3": {
+    "name": "Apple Watch Series 5 (GPS + Cellular, 40mm)",
+    "identifier": "Watch5,3",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N146sAP"
+    ],
+    "model": [
+      "A2094",
+      "A2156"
+    ],
+    "released": "2019-09-10"
+  },
+  "Watch5,4": {
+    "name": "Apple Watch Series 5 (GPS + Cellular, 44mm)",
+    "identifier": "Watch5,4",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N146bAP"
+    ],
+    "model": [
+      "A2095",
+      "A2157"
+    ],
+    "released": "2019-09-10"
+  },
+  "Watch5,9": {
+    "name": "Apple Watch SE (GPS, 40mm)",
+    "identifier": "Watch5,9",
+    "soc": "S5",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N140sAP"
+    ],
+    "model": [
+      "A2351"
+    ],
+    "released": "2020-09-15"
+  },
+  "Watch6,1": {
+    "name": "Apple Watch Series 6 (GPS, 40mm)",
+    "identifier": "Watch6,1",
+    "soc": "S6",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N157sAP"
+    ],
+    "model": [
+      "A2291"
+    ],
+    "released": "2020-09-15"
+  },
+  "Watch6,2": {
+    "name": "Apple Watch Series 6 (GPS, 44mm)",
+    "identifier": "Watch6,2",
+    "soc": "S6",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N157bAP"
+    ],
+    "model": [
+      "A2292"
+    ],
+    "released": "2020-09-15"
+  },
+  "Watch6,3": {
+    "name": "Apple Watch Series 6 (GPS + Cellular, 40mm)",
+    "identifier": "Watch6,3",
+    "soc": "S6",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N158sAP"
+    ],
+    "model": [
+      "A2293",
+      "A2375"
+    ],
+    "released": "2020-09-15"
+  },
+  "Watch6,4": {
+    "name": "Apple Watch Series 6 (GPS + Cellular, 44mm)",
+    "identifier": "Watch6,4",
+    "soc": "S6",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N158bAP"
+    ],
+    "model": [
+      "A2294",
+      "A2376"
+    ],
+    "released": "2020-09-15"
+  },
+  "Watch6,6": {
+    "name": "Apple Watch Series 7 (GPS, 41mm)",
+    "identifier": "Watch6,6",
+    "soc": "S7",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N187sAP"
+    ],
+    "model": [
+      "A2473"
+    ],
+    "released": "2021-09-14"
+  },
+  "Watch6,7": {
+    "name": "Apple Watch Series 7 (GPS, 45mm)",
+    "identifier": "Watch6,7",
+    "soc": "S7",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N187bAP"
+    ],
+    "model": [
+      "A2474"
+    ],
+    "released": "2021-09-14"
+  },
+  "Watch6,8": {
+    "name": "Apple Watch Series 7 (GPS + Cellular, 41mm)",
+    "identifier": "Watch6,8",
+    "soc": "S7",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N188sAP"
+    ],
+    "model": [
+      "A2475",
+      "A2476"
+    ],
+    "released": "2021-09-14"
+  },
+  "Watch6,9": {
+    "name": "Apple Watch Series 7 (GPS + Cellular, 45mm)",
+    "identifier": "Watch6,9",
+    "soc": "S7",
+    "arch": "arm64e",
+    "type": "Apple Watch",
+    "board": [
+      "N188bAP"
+    ],
+    "model": [
+      "A2477",
+      "A2478"
+    ],
+    "released": "2021-09-14"
+  },
+  "iMac10,1": {
+    "name": "iMac (27-inch, Late 2009)",
+    "alias": [
+      "iMac (21.5-inch, Late 2009)"
+    ],
+    "identifier": "iMac10,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac11,2": {
+    "name": "iMac (21.5-inch, Mid 2010)",
+    "identifier": "iMac11,2",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac11,3": {
+    "name": "iMac (27-inch, Mid 2010)",
+    "identifier": "iMac11,3",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac12,1": {
+    "name": "iMac (21.5-inch, Mid 2011)",
+    "identifier": "iMac12,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac12,2": {
+    "name": "iMac (27-inch, Mid 2011)",
+    "identifier": "iMac12,2",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac13,1": {
+    "name": "iMac (21.5-inch, Late 2012)",
+    "identifier": "iMac13,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac13,2": {
+    "name": "iMac (27-inch, Late 2012)",
+    "identifier": "iMac13,2",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac14,1": {
+    "name": "iMac (21.5-inch, Late 2013)",
+    "identifier": "iMac14,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac14,2": {
+    "name": "iMac (27-inch, Late 2013)",
+    "identifier": "iMac14,2",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac14,4": {
+    "name": "iMac (21.5-inch, Mid 2014)",
+    "identifier": "iMac14,4",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac15,1": {
+    "name": "iMac (Retina 5K, 27-inch, Late 2014)",
+    "alias": [
+      "iMac (Retina 5K, 27-inch, Mid 2015)"
+    ],
+    "identifier": "iMac15,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac16,1": {
+    "name": "iMac (21.5-inch, Late 2015)",
+    "identifier": "iMac16,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac16,2": {
+    "name": "iMac (Retina 4K, 21.5-inch, Late 2015)",
+    "identifier": "iMac16,2",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac17,1": {
+    "name": "iMac (Retina 5K, 27-inch, Late 2015)",
+    "identifier": "iMac17,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac18,1": {
+    "name": "iMac (21.5-inch, 2017)",
+    "identifier": "iMac18,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac18,2": {
+    "name": "iMac (Retina 4K, 21.5-inch, 2017)",
+    "identifier": "iMac18,2",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac18,3": {
+    "name": "iMac (Retina 5K, 27-inch, 2017)",
+    "identifier": "iMac18,3",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac19,1": {
+    "name": "iMac (Retina 5K, 27-inch, 2019)",
+    "identifier": "iMac19,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac19,2": {
+    "name": "iMac (Retina 4K, 21.5-inch, 2019)",
+    "identifier": "iMac19,2",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac20,1": {
+    "name": "iMac (Retina 5K, 27-inch, 2020)",
+    "identifier": "iMac20,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac20,2": {
+    "name": "iMac (Retina 5K, 27-inch, 2020)",
+    "identifier": "iMac20,2",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMac21,1": {
+    "name": "iMac (24-inch, M1, Four Ports, 2021)",
+    "identifier": "iMac21,1",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iMac",
+    "model": [
+      "A2438"
+    ],
+    "board": [
+      "J456AP"
+    ],
+    "released": "2021-04-20",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 8,
+        "Performance_Cores": "4 @ 3.2GHz",
+        "Efficiency_Cores": "4 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "12MB",
+          "4MB"
+        ],
+        "GPU_Core_Count": [
+          7,
+          8
+        ],
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "4x USB-C",
+          "3.5 mm headphone jack",
+          "Gigabit Ethernet (Configurable)"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "Notes": "Thunderbolt 4 and USB 4 is only supported on a maximum of two USB-C ports. Any other USB-C ports are USB 3.",
+        "External_Display_Count": 1,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0",
+        "Power_Adapter": "143W"
+      },
+      {
+        "type": "Sensors",
+        "Camera": "1080p FaceTime HD camera",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming",
+        "Other": [
+          "Ambient Light Sensor",
+          "Force Touch trackpad"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Speakers": "High-fidelity six-speaker system with force-cancelling woofers",
+        "Channels": "Stereo",
+        "Dolby_Atmos": true,
+        "Headphone_Jack": true,
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming"
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 4480,
+          "y": 2520
+        },
+        "Screen_Size": "23.5\"",
+        "Refresh_Rate": "60 Hz",
+        "Peak_Brightness": "500 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": false,
+        "Pixels_per_Inch": 223
+      }
+    ]
+  },
+  "iMac21,2": {
+    "name": "iMac (24-inch, M1, Two Ports, 2021)",
+    "identifier": "iMac21,2",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iMac",
+    "model": [
+      "A2439"
+    ],
+    "board": [
+      "J457AP"
+    ],
+    "released": "2021-04-20",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "M1",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 8,
+        "Performance_Cores": "4 @ 3.2GHz",
+        "Efficiency_Cores": "4 @ 2.0GHz",
+        "Instruction_Cache": [
+          "192KB",
+          "128KB"
+        ],
+        "Data_Cache": [
+          "128KB",
+          "64KB"
+        ],
+        "L2_Cache": [
+          "12MB",
+          "4MB"
+        ],
+        "GPU_Core_Count": [
+          7,
+          8
+        ],
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Connectivity",
+        "Ports": [
+          "2x USB-C",
+          "3.5 mm headphone jack",
+          "Gigabit Ethernet (Configurable)"
+        ],
+        "Supports": [
+          "Thunderbolt 4",
+          "USB 4",
+          "DisplayPort 4.0"
+        ],
+        "External_Display_Count": 1,
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0",
+        "Power_Adapter": "143W"
+      },
+      {
+        "type": "Sensors",
+        "Camera": "1080p FaceTime HD camera",
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming",
+        "Other": [
+          "Ambient Light Sensor",
+          "Force Touch trackpad"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Speakers": "High-fidelity six-speaker system with force-cancelling woofers",
+        "Channels": "Stereo",
+        "Dolby_Atmos": true,
+        "Headphone_Jack": true,
+        "Microphone": "Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming"
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 4480,
+          "y": 2520
+        },
+        "Screen_Size": "23.5\"",
+        "Refresh_Rate": "60 Hz",
+        "Peak_Brightness": "500 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": false,
+        "Pixels_per_Inch": 223
+      }
+    ]
+  },
+  "iMac9,1": {
+    "name": "iMac (24-inch, Early 2009)",
+    "alias": [
+      "iMac (20-inch, Early 2009)"
+    ],
+    "identifier": "iMac9,1",
+    "arch": "x86",
+    "type": "iMac",
+    "model": [],
+    "board": []
+  },
+  "iMacPro1,1": {
+    "name": "iMac Pro",
+    "identifier": "iMacPro1,1",
+    "arch": "x86",
+    "type": "iMac Pro",
+    "model": [],
+    "board": []
+  },
+  "iPad1,1": {
+    "name": "iPad",
+    "identifier": "iPad1,1",
+    "soc": "A4",
+    "arch": "armv7",
+    "type": "iPad",
+    "board": [
+      "K48AP"
+    ],
+    "model": [
+      "A1219",
+      "A1337"
+    ],
+    "released": "2010-01-27"
+  },
+  "iPad11,1": {
+    "name": "iPad mini (5th generation) Wi-Fi",
+    "identifier": "iPad11,1",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPad mini",
+    "board": [
+      "J210AP"
+    ],
+    "model": [
+      "A2133"
+    ],
+    "released": "2019-03-18"
+  },
+  "iPad11,2": {
+    "name": "iPad mini (5th generation) Wi-Fi + Cellular",
+    "identifier": "iPad11,2",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPad mini",
+    "board": [
+      "J211AP"
+    ],
+    "model": [
+      "A2124",
+      "A2125",
+      "A2126"
+    ],
+    "released": "2019-03-18"
+  },
+  "iPad11,3": {
+    "name": "iPad Air (3rd generation) Wi-Fi",
+    "identifier": "iPad11,3",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPad Air",
+    "board": [
+      "J217AP"
+    ],
+    "model": [
+      "A2152"
+    ],
+    "released": "2019-03-18"
+  },
+  "iPad11,4": {
+    "name": "iPad Air (3rd generation) Wi-Fi + Cellular",
+    "identifier": "iPad11,4",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPad Air",
+    "board": [
+      "J218AP"
+    ],
+    "model": [
+      "A2123",
+      "A2153",
+      "A2154"
+    ],
+    "released": "2019-03-18"
+  },
+  "iPad11,6": {
+    "name": "iPad (8th generation) Wi-Fi",
+    "identifier": "iPad11,6",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPad",
+    "board": [
+      "J171aAP"
+    ],
+    "model": [
+      "A2270"
+    ],
+    "released": "2020-09-15"
+  },
+  "iPad11,7": {
+    "name": "iPad (8th generation) Wi-Fi + Cellular",
+    "identifier": "iPad11,7",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPad",
+    "board": [
+      "J172aAP"
+    ],
+    "model": [
+      "A2428",
+      "A2429",
+      "A2430"
+    ],
+    "released": "2020-09-15"
+  },
+  "iPad12,1": {
+    "name": "iPad (9th generation) Wi-Fi",
+    "identifier": "iPad12,1",
+    "soc": "A13",
+    "arch": "arm64e",
+    "type": "iPad",
+    "board": [
+      "J181AP"
+    ],
+    "model": [
+      "A2602"
+    ],
+    "released": "2021-09-14"
+  },
+  "iPad12,2": {
+    "name": "iPad (9th generation) Wi-Fi + Cellular",
+    "identifier": "iPad12,2",
+    "soc": "A13",
+    "arch": "arm64e",
+    "type": "iPad",
+    "board": [
+      "J182AP"
+    ],
+    "model": [
+      "A2603",
+      "A2604",
+      "A2605"
+    ],
+    "released": "2021-09-14"
+  },
+  "iPad13,1": {
+    "name": "iPad Air (4th generation) Wi-Fi",
+    "identifier": "iPad13,1",
+    "soc": "A14",
+    "arch": "arm64e",
+    "type": "iPad Air",
+    "board": [
+      "J307AP"
+    ],
+    "model": [
+      "A2316"
+    ],
+    "released": "2020-09-15"
+  },
+  "iPad13,10": {
+    "name": "iPad Pro 12.9-inch (5th generation) Wi-Fi + Cellular",
+    "identifier": "iPad13,10",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J523AP"
+    ],
+    "model": [
+      "A2461"
+    ],
+    "released": "2021-04-20"
+  },
+  "iPad13,11": {
+    "name": "iPad Pro 12.9-inch (5th generation) Wi-Fi + Cellular (China mainland)",
+    "identifier": "iPad13,11",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J523xAP"
+    ],
+    "model": [
+      "A2462"
+    ],
+    "released": "2021-04-20"
+  },
+  "iPad13,16": {
+    "name": "iPad Air (5th generation) Wi-Fi",
+    "identifier": "iPad13,16",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Air",
+    "board": [
+      "J407AP"
+    ],
+    "model": [
+      "A2588"
+    ],
+    "released": "2022-03-08"
+  },
+  "iPad13,17": {
+    "name": "iPad Air (5th generation) Wi-Fi + Cellular",
+    "identifier": "iPad13,17",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Air",
+    "board": [
+      "J408AP"
+    ],
+    "model": [
+      "A2589",
+      "A2591"
+    ],
+    "released": "2022-03-08"
+  },
+  "iPad13,2": {
+    "name": "iPad Air (4th generation) Wi-Fi + Cellular",
+    "identifier": "iPad13,2",
+    "soc": "A14",
+    "arch": "arm64e",
+    "type": "iPad Air",
+    "board": [
+      "J308AP"
+    ],
+    "model": [
+      "A2072",
+      "A2324",
+      "A2325"
+    ],
+    "released": "2020-09-15"
+  },
+  "iPad13,4": {
+    "name": "iPad Pro 11-inch (3rd generation) Wi-Fi",
+    "identifier": "iPad13,4",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J517AP"
+    ],
+    "model": [
+      "A2377"
+    ],
+    "released": "2021-04-20"
+  },
+  "iPad13,5": {
+    "name": "iPad Pro 11-inch (3rd generation) Wi-Fi + Cellular with mmWave",
+    "identifier": "iPad13,5",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J517xAP"
+    ],
+    "model": [
+      "A2301"
+    ],
+    "released": "2021-04-20"
+  },
+  "iPad13,6": {
+    "name": "iPad Pro 11-inch (3rd generation) Wi-Fi + Cellular",
+    "identifier": "iPad13,6",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J518AP"
+    ],
+    "model": [
+      "A2459"
+    ],
+    "released": "2021-04-20"
+  },
+  "iPad13,7": {
+    "name": "iPad Pro 11-inch (3rd generation) Wi-Fi + Cellular (China mainland)",
+    "identifier": "iPad13,7",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J518xAP"
+    ],
+    "model": [
+      "A2460"
+    ],
+    "released": "2021-04-20"
+  },
+  "iPad13,8": {
+    "name": "iPad Pro 12.9-inch (5th generation) Wi-Fi",
+    "identifier": "iPad13,8",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J522AP"
+    ],
+    "model": [
+      "A2378"
+    ],
+    "released": "2021-04-20"
+  },
+  "iPad13,9": {
+    "name": "iPad Pro 12.9-inch (5th generation) Wi-Fi + Cellular with mmWave",
+    "identifier": "iPad13,9",
+    "soc": "M1",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J522xAP"
+    ],
+    "model": [
+      "A2379"
+    ],
+    "released": "2021-04-20"
+  },
+  "iPad14,1": {
+    "name": "iPad mini (6th generation) Wi-Fi",
+    "identifier": "iPad14,1",
+    "soc": "A15",
+    "arch": "arm64e",
+    "type": "iPad mini",
+    "board": [
+      "J310AP"
+    ],
+    "model": [
+      "A2567"
+    ],
+    "released": "2021-09-14"
+  },
+  "iPad14,2": {
+    "name": "iPad mini (6th generation) Wi-Fi + Cellular",
+    "identifier": "iPad14,2",
+    "soc": "A15",
+    "arch": "arm64e",
+    "type": "iPad mini",
+    "board": [
+      "J311AP"
+    ],
+    "model": [
+      "A2568",
+      "A2569"
+    ],
+    "released": "2021-09-14"
+  },
+  "iPad2,1": {
+    "name": "iPad 2 Wi-Fi",
+    "identifier": "iPad2,1",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPad",
+    "board": [
+      "K93AP"
+    ],
+    "model": [
+      "A1395"
+    ],
+    "released": "2011-03-02"
+  },
+  "iPad2,2": {
+    "name": "iPad 2 Wi-Fi + 3G (GSM)",
+    "identifier": "iPad2,2",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPad",
+    "board": [
+      "K94AP"
+    ],
+    "model": [
+      "A1396"
+    ],
+    "released": "2011-03-02"
+  },
+  "iPad2,3": {
+    "name": "iPad 2 Wi-Fi + 3G (CDMA)",
+    "identifier": "iPad2,3",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPad",
+    "board": [
+      "K95AP"
+    ],
+    "model": [
+      "A1397"
+    ],
+    "released": "2011-03-02"
+  },
+  "iPad2,4": {
+    "name": "iPad 2 Wi-Fi (Mid 2012)",
+    "identifier": "iPad2,4",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPad",
+    "board": [
+      "K93aAP"
+    ],
+    "model": [
+      "A1395"
+    ],
+    "released": "2012-03-25"
+  },
+  "iPad2,5": {
+    "name": "iPad mini Wi-Fi",
+    "identifier": "iPad2,5",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPad mini",
+    "board": [
+      "P105AP"
+    ],
+    "model": [
+      "A1432"
+    ],
+    "released": "2012-10-23"
+  },
+  "iPad2,6": {
+    "name": "iPad mini Wi-Fi + Cellular",
+    "identifier": "iPad2,6",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPad mini",
+    "board": [
+      "P106AP"
+    ],
+    "model": [
+      "A1454"
+    ],
+    "released": "2012-10-23"
+  },
+  "iPad2,7": {
+    "name": "iPad mini Wi-Fi + Cellular (MM)",
+    "identifier": "iPad2,7",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPad mini",
+    "board": [
+      "P107AP"
+    ],
+    "model": [
+      "A1455"
+    ],
+    "released": "2012-10-23"
+  },
+  "iPad3,1": {
+    "name": "iPad (3rd generation) Wi-Fi",
+    "identifier": "iPad3,1",
+    "soc": "A5X",
+    "arch": "armv7",
+    "type": "iPad",
+    "board": [
+      "J1AP"
+    ],
+    "model": [
+      "A1416"
+    ],
+    "released": "2012-03-07"
+  },
+  "iPad3,2": {
+    "name": "iPad (3rd generation) Wi-Fi + Cellular (VZ)",
+    "identifier": "iPad3,2",
+    "soc": "A5X",
+    "arch": "armv7",
+    "type": "iPad",
+    "board": [
+      "J2AP"
+    ],
+    "model": [
+      "A1403"
+    ],
+    "released": "2012-03-07"
+  },
+  "iPad3,3": {
+    "name": "iPad (3rd generation) Wi-Fi + Cellular",
+    "identifier": "iPad3,3",
+    "soc": "A5X",
+    "arch": "armv7",
+    "type": "iPad",
+    "board": [
+      "J2aAP"
+    ],
+    "model": [
+      "A1430"
+    ],
+    "released": "2012-03-07"
+  },
+  "iPad3,4": {
+    "name": "iPad (4th generation) Wi-Fi",
+    "identifier": "iPad3,4",
+    "soc": "A6X",
+    "arch": "armv7s",
+    "type": "iPad",
+    "board": [
+      "P101AP"
+    ],
+    "model": [
+      "A1458"
+    ],
+    "released": "2012-10-23"
+  },
+  "iPad3,5": {
+    "name": "iPad (4th generation) Wi-Fi + Cellular",
+    "identifier": "iPad3,5",
+    "soc": "A6X",
+    "arch": "armv7s",
+    "type": "iPad",
+    "board": [
+      "P102AP"
+    ],
+    "model": [
+      "A1459"
+    ],
+    "released": "2012-10-23"
+  },
+  "iPad3,6": {
+    "name": "iPad (4th generation) Wi-Fi + Cellular (MM)",
+    "identifier": "iPad3,6",
+    "soc": "A6X",
+    "arch": "armv7s",
+    "type": "iPad",
+    "board": [
+      "P103AP"
+    ],
+    "model": [
+      "A1460"
+    ],
+    "released": "2012-10-23"
+  },
+  "iPad4,1": {
+    "name": "iPad Air Wi-Fi",
+    "identifier": "iPad4,1",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad Air",
+    "board": [
+      "J71AP"
+    ],
+    "model": [
+      "A1474"
+    ],
+    "released": "2013-10-22"
+  },
+  "iPad4,2": {
+    "name": "iPad Air Wi-Fi + Cellular",
+    "identifier": "iPad4,2",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad Air",
+    "board": [
+      "J72AP"
+    ],
+    "model": [
+      "A1475"
+    ],
+    "released": "2013-10-22"
+  },
+  "iPad4,3": {
+    "name": "iPad Air Wi-Fi + Cellular (TD-LTE)",
+    "identifier": "iPad4,3",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad Air",
+    "board": [
+      "J73AP"
+    ],
+    "model": [
+      "A1476"
+    ],
+    "released": "2014-04-01"
+  },
+  "iPad4,4": {
+    "name": "iPad mini 2 Wi-Fi",
+    "identifier": "iPad4,4",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad mini",
+    "board": [
+      "J85AP"
+    ],
+    "model": [
+      "A1489"
+    ],
+    "released": "2013-10-22"
+  },
+  "iPad4,5": {
+    "name": "iPad mini 2 Wi-Fi + Cellular",
+    "identifier": "iPad4,5",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad mini",
+    "board": [
+      "J86AP"
+    ],
+    "model": [
+      "A1490"
+    ],
+    "released": "2013-10-22"
+  },
+  "iPad4,6": {
+    "name": "iPad mini 2 Wi-Fi + Cellular (TD-LTE)",
+    "identifier": "iPad4,6",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad mini",
+    "board": [
+      "J87AP"
+    ],
+    "model": [
+      "A1491"
+    ],
+    "released": "2014-04-01"
+  },
+  "iPad4,7": {
+    "name": "iPad mini 3 Wi-Fi",
+    "identifier": "iPad4,7",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad mini",
+    "board": [
+      "J85mAP"
+    ],
+    "model": [
+      "A1599"
+    ],
+    "released": "2014-10-16"
+  },
+  "iPad4,8": {
+    "name": "iPad mini 3 Wi-Fi + Cellular",
+    "identifier": "iPad4,8",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad mini",
+    "board": [
+      "J86mAP"
+    ],
+    "model": [
+      "A1600"
+    ],
+    "released": "2014-10-16"
+  },
+  "iPad4,9": {
+    "name": "iPad mini 3 Wi-Fi + Cellular (TD-LTE)",
+    "identifier": "iPad4,9",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPad mini",
+    "board": [
+      "J87mAP"
+    ],
+    "model": [
+      "A1601"
+    ],
+    "released": "2014-10-16"
+  },
+  "iPad5,1": {
+    "name": "iPad mini 4 Wi-Fi",
+    "identifier": "iPad5,1",
+    "soc": "A8",
+    "arch": "arm64",
+    "type": "iPad mini",
+    "board": [
+      "J96AP"
+    ],
+    "model": [
+      "A1538"
+    ],
+    "released": "2015-09-09"
+  },
+  "iPad5,2": {
+    "name": "iPad mini 4 Wi-Fi + Cellular",
+    "identifier": "iPad5,2",
+    "soc": "A8",
+    "arch": "arm64",
+    "type": "iPad mini",
+    "board": [
+      "J97AP"
+    ],
+    "model": [
+      "A1550"
+    ],
+    "released": "2015-09-09"
+  },
+  "iPad5,3": {
+    "name": "iPad Air 2 Wi-Fi",
+    "identifier": "iPad5,3",
+    "soc": "A8X",
+    "arch": "arm64",
+    "type": "iPad Air",
+    "board": [
+      "J81AP"
+    ],
+    "model": [
+      "A1566"
+    ],
+    "released": "2014-10-16"
+  },
+  "iPad5,4": {
+    "name": "iPad Air 2 Wi-Fi + Cellular",
+    "identifier": "iPad5,4",
+    "soc": "A8X",
+    "arch": "arm64",
+    "type": "iPad Air",
+    "board": [
+      "J82AP"
+    ],
+    "model": [
+      "A1567"
+    ],
+    "released": "2014-10-16"
+  },
+  "iPad6,11": {
+    "name": "iPad (5th generation) Wi-Fi",
+    "identifier": "iPad6,11",
+    "soc": "A9",
+    "arch": "arm64",
+    "type": "iPad",
+    "board": [
+      "J71sAP",
+      "J71tAP"
+    ],
+    "released": "2017-03-21",
+    "model": []
+  },
+  "iPad6,12": {
+    "name": "iPad (5th generation) Wi-Fi + Cellular",
+    "identifier": "iPad6,12",
+    "soc": "A9",
+    "arch": "arm64",
+    "type": "iPad",
+    "board": [
+      "J72sAP",
+      "J72tAP"
+    ],
+    "released": "2017-03-21",
+    "model": []
+  },
+  "iPad6,3": {
+    "name": "iPad Pro (9.7-inch) Wi-Fi",
+    "identifier": "iPad6,3",
+    "soc": "A9X",
+    "arch": "arm64",
+    "type": "iPad Pro",
+    "board": [
+      "J127AP"
+    ],
+    "model": [
+      "A1673"
+    ],
+    "released": "2016-03-21"
+  },
+  "iPad6,4": {
+    "name": "iPad Pro (9.7-inch) Wi-Fi + Cellular",
+    "identifier": "iPad6,4",
+    "soc": "A9X",
+    "arch": "arm64",
+    "type": "iPad Pro",
+    "board": [
+      "J128AP"
+    ],
+    "model": [
+      "A1674",
+      "A1675"
+    ],
+    "released": "2016-03-21"
+  },
+  "iPad6,7": {
+    "name": "iPad Pro (12.9-inch) (1st generation) Wi-Fi",
+    "identifier": "iPad6,7",
+    "soc": "A9X",
+    "arch": "arm64",
+    "type": "iPad Pro",
+    "board": [
+      "J98aAP"
+    ],
+    "model": [
+      "A1584"
+    ],
+    "released": "2015-09-09"
+  },
+  "iPad6,8": {
+    "name": "iPad Pro (12.9-inch) (1st generation) Wi-Fi + Cellular",
+    "identifier": "iPad6,8",
+    "soc": "A9X",
+    "arch": "arm64",
+    "type": "iPad Pro",
+    "board": [
+      "J99aAP"
+    ],
+    "model": [
+      "A1652"
+    ],
+    "released": "2015-09-09"
+  },
+  "iPad7,1": {
+    "name": "iPad Pro (12.9-inch) (2nd generation) Wi-Fi",
+    "identifier": "iPad7,1",
+    "soc": "A10X",
+    "arch": "arm64",
+    "type": "iPad Pro",
+    "board": [
+      "J120AP"
+    ],
+    "model": [
+      "A1670"
+    ],
+    "released": "2017-06-05"
+  },
+  "iPad7,11": {
+    "name": "iPad (7th generation) Wi-Fi",
+    "identifier": "iPad7,11",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPad",
+    "board": [
+      "J171AP"
+    ],
+    "model": [
+      "A2197"
+    ],
+    "released": "2019-09-10"
+  },
+  "iPad7,12": {
+    "name": "iPad (7th generation) Wi-Fi + Cellular",
+    "identifier": "iPad7,12",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPad",
+    "board": [
+      "J172AP"
+    ],
+    "model": [
+      "A2198",
+      "A2199",
+      "A2200"
+    ],
+    "released": "2019-09-10"
+  },
+  "iPad7,2": {
+    "name": "iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular",
+    "identifier": "iPad7,2",
+    "soc": "A10X",
+    "arch": "arm64",
+    "type": "iPad Pro",
+    "board": [
+      "J121AP"
+    ],
+    "model": [
+      "A1671"
+    ],
+    "released": "2017-06-05"
+  },
+  "iPad7,3": {
+    "name": "iPad Pro (10.5-inch) Wi-Fi",
+    "identifier": "iPad7,3",
+    "soc": "A10X",
+    "arch": "arm64",
+    "type": "iPad Pro",
+    "board": [
+      "J207AP"
+    ],
+    "model": [
+      "A1701"
+    ],
+    "released": "2017-06-05"
+  },
+  "iPad7,4": {
+    "name": "iPad Pro (10.5-inch) Wi-Fi + Cellular",
+    "identifier": "iPad7,4",
+    "soc": "A10X",
+    "arch": "arm64",
+    "type": "iPad Pro",
+    "board": [
+      "J208AP"
+    ],
+    "model": [
+      "A1709"
+    ],
+    "released": "2017-06-05"
+  },
+  "iPad7,5": {
+    "name": "iPad (6th generation) Wi-Fi",
+    "identifier": "iPad7,5",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPad",
+    "board": [
+      "J71bAP"
+    ],
+    "model": [
+      "A1893"
+    ],
+    "released": "2018-03-27"
+  },
+  "iPad7,6": {
+    "name": "iPad (6th generation) Wi-Fi + Cellular",
+    "identifier": "iPad7,6",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPad",
+    "board": [
+      "J72bAP"
+    ],
+    "model": [
+      "A1954"
+    ],
+    "released": "2018-03-27"
+  },
+  "iPad8,1": {
+    "name": "iPad Pro 11-inch (1st generation) Wi-Fi",
+    "identifier": "iPad8,1",
+    "soc": "A12X",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J317AP"
+    ],
+    "model": [
+      "A1980"
+    ],
+    "released": "2018-10-30"
+  },
+  "iPad8,10": {
+    "name": "iPad Pro 11-inch (2nd generation) Wi-Fi + Cellular",
+    "identifier": "iPad8,10",
+    "soc": "A12Z",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J418AP"
+    ],
+    "model": [
+      "A2068",
+      "A2230",
+      "A2231"
+    ],
+    "released": "2020-03-18"
+  },
+  "iPad8,11": {
+    "name": "iPad Pro 12.9-inch (4th generation) Wi-Fi",
+    "identifier": "iPad8,11",
+    "soc": "A12Z",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J420AP"
+    ],
+    "model": [
+      "A2229"
+    ],
+    "released": "2020-03-18"
+  },
+  "iPad8,12": {
+    "name": "iPad Pro 12.9-inch (4th generation) Wi-Fi + Cellular",
+    "identifier": "iPad8,12",
+    "soc": "A12Z",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J421AP"
+    ],
+    "model": [
+      "A2069",
+      "A2232",
+      "A2233"
+    ],
+    "released": "2020-03-18"
+  },
+  "iPad8,2": {
+    "name": "iPad Pro 11-inch (1st generation) Wi-Fi (1TB)",
+    "identifier": "iPad8,2",
+    "soc": "A12X",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J317xAP"
+    ],
+    "model": [
+      "A1980"
+    ],
+    "released": "2018-10-30"
+  },
+  "iPad8,3": {
+    "name": "iPad Pro 11-inch (1st generation) Wi-Fi + Cellular",
+    "identifier": "iPad8,3",
+    "soc": "A12X",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J318AP"
+    ],
+    "model": [
+      "A1934",
+      "A1979",
+      "A2013"
+    ],
+    "released": "2018-10-30"
+  },
+  "iPad8,4": {
+    "name": "iPad Pro 11-inch (1st generation) Wi-Fi + Cellular (1TB)",
+    "identifier": "iPad8,4",
+    "soc": "A12X",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J318xAP"
+    ],
+    "model": [
+      "A1934",
+      "A1979",
+      "A2013"
+    ],
+    "released": "2018-10-30"
+  },
+  "iPad8,5": {
+    "name": "iPad Pro 12.9-inch (3rd generation) Wi-Fi",
+    "identifier": "iPad8,5",
+    "soc": "A12X",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J320AP"
+    ],
+    "model": [
+      "A1876"
+    ],
+    "released": "2018-10-30"
+  },
+  "iPad8,6": {
+    "name": "iPad Pro 12.9-inch (3rd generation) Wi-Fi (1TB)",
+    "identifier": "iPad8,6",
+    "soc": "A12X",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J320xAP"
+    ],
+    "model": [
+      "A1876"
+    ],
+    "released": "2018-10-30"
+  },
+  "iPad8,7": {
+    "name": "iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular",
+    "identifier": "iPad8,7",
+    "soc": "A12X",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J321AP"
+    ],
+    "model": [
+      "A1895",
+      "A1983",
+      "A2014"
+    ],
+    "released": "2018-10-30"
+  },
+  "iPad8,8": {
+    "name": "iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular (1TB)",
+    "identifier": "iPad8,8",
+    "soc": "A12X",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J321xAP"
+    ],
+    "model": [
+      "A1895",
+      "A1983",
+      "A2014"
+    ],
+    "released": "2018-10-30"
+  },
+  "iPad8,9": {
+    "name": "iPad Pro 11-inch (2nd generation) Wi-Fi",
+    "identifier": "iPad8,9",
+    "soc": "A12Z",
+    "arch": "arm64e",
+    "type": "iPad Pro",
+    "board": [
+      "J417AP"
+    ],
+    "model": [
+      "A2228"
+    ],
+    "released": "2020-03-18"
+  },
+  "iPhone1,1": {
+    "name": "iPhone",
+    "identifier": "iPhone1,1",
+    "soc": "APL0098",
+    "arch": "armv6",
+    "type": "iPhone",
+    "released": "2007-06-29",
+    "discontinued": "2008-07-15",
+    "board": [
+      "M68AP"
+    ],
+    "model": [
+      "A1203"
+    ]
+  },
+  "iPhone1,2": {
+    "name": "iPhone 3G",
+    "identifier": "iPhone1,2",
+    "soc": "APL0098",
+    "arch": "armv6",
+    "type": "iPhone",
+    "released": "2008-07-11",
+    "discontinued": "2010-06-07",
+    "board": [
+      "N82AP"
+    ],
+    "model": [
+      "A1241",
+      "A1324"
+    ]
+  },
+  "iPhone10,1": {
+    "name": "iPhone 8 (CDMA)",
+    "identifier": "iPhone10,1",
+    "soc": "A11",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2017-09-12",
+    "discontinued": "2020-04-15",
+    "board": [
+      "D20AP"
+    ],
+    "model": [
+      "A1863",
+      "A1906",
+      "A1907"
+    ]
+  },
+  "iPhone10,2": {
+    "name": "iPhone 8 Plus (CDMA)",
+    "identifier": "iPhone10,2",
+    "soc": "A11",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2017-09-12",
+    "discontinued": "2020-04-15",
+    "board": [
+      "D21AP"
+    ],
+    "model": [
+      "A1864",
+      "A1898",
+      "A1899"
+    ]
+  },
+  "iPhone10,3": {
+    "name": "iPhone X (CDMA)",
+    "identifier": "iPhone10,3",
+    "soc": "A11",
+    "arch": "arm64",
+    "type": "iPhone",
+    "board": [
+      "D22AP"
+    ],
+    "model": [
+      "A1865",
+      "A1902"
+    ],
+    "released": "2017-11-03"
+  },
+  "iPhone10,4": {
+    "name": "iPhone 8 (GSM)",
+    "identifier": "iPhone10,4",
+    "soc": "A11",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2017-09-12",
+    "discontinued": "2020-04-15",
+    "board": [
+      "D201AP"
+    ],
+    "model": [
+      "A1905"
+    ]
+  },
+  "iPhone10,5": {
+    "name": "iPhone 8 Plus (GSM)",
+    "identifier": "iPhone10,5",
+    "soc": "A11",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2017-09-12",
+    "discontinued": "2020-04-15",
+    "board": [
+      "D211AP"
+    ],
+    "model": [
+      "A1897"
+    ]
+  },
+  "iPhone10,6": {
+    "name": "iPhone X (GSM)",
+    "identifier": "iPhone10,6",
+    "soc": "A11",
+    "arch": "arm64",
+    "type": "iPhone",
+    "board": [
+      "D221AP"
+    ],
+    "model": [
+      "A1901"
+    ],
+    "released": "2017-11-03"
+  },
+  "iPhone11,2": {
+    "name": "iPhone XS",
+    "identifier": "iPhone11,2",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D321AP"
+    ],
+    "model": [
+      "A1920",
+      "A2097",
+      "A2098",
+      "A2099",
+      "A2100"
+    ],
+    "released": "2018-09-21"
+  },
+  "iPhone11,4": {
+    "name": "iPhone XS Max (China mainland)",
+    "identifier": "iPhone11,4",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D331AP"
+    ],
+    "model": [
+      "A2103"
+    ],
+    "released": "2018-09-21"
+  },
+  "iPhone11,6": {
+    "name": "iPhone XS Max",
+    "identifier": "iPhone11,6",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D331pAP"
+    ],
+    "model": [
+      "A1921",
+      "A2101",
+      "A2102",
+      "A2104"
+    ],
+    "released": "2018-09-21"
+  },
+  "iPhone11,8": {
+    "name": "iPhone XR",
+    "identifier": "iPhone11,8",
+    "soc": "A12",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "N841AP"
+    ],
+    "model": [
+      "A1984",
+      "A2105",
+      "A2106",
+      "A2107",
+      "A2108"
+    ],
+    "released": "2018-10-26"
+  },
+  "iPhone12,1": {
+    "name": "iPhone 11",
+    "identifier": "iPhone12,1",
+    "soc": "A13",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "N104AP"
+    ],
+    "model": [
+      "A2111",
+      "A2221",
+      "A2223"
+    ],
+    "released": "2019-09-20"
+  },
+  "iPhone12,3": {
+    "name": "iPhone 11 Pro",
+    "identifier": "iPhone12,3",
+    "soc": "A13",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D421AP"
+    ],
+    "model": [
+      "A2160",
+      "A2215",
+      "A2217"
+    ],
+    "released": "2019-09-20"
+  },
+  "iPhone12,5": {
+    "name": "iPhone 11 Pro Max",
+    "identifier": "iPhone12,5",
+    "soc": "A13",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D431AP"
+    ],
+    "model": [
+      "A2161",
+      "A2218",
+      "A2220"
+    ],
+    "released": "2019-09-20"
+  },
+  "iPhone12,8": {
+    "name": "iPhone SE (2nd generation)",
+    "identifier": "iPhone12,8",
+    "soc": "A13",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D79AP"
+    ],
+    "model": [
+      "A2275",
+      "A2296",
+      "A2298"
+    ],
+    "released": "2020-04-24",
+    "discontinued": "2020-04-24"
+  },
+  "iPhone13,1": {
+    "name": "iPhone 12 mini",
+    "identifier": "iPhone13,1",
+    "soc": "A14",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D52gAP"
+    ],
+    "model": [
+      "A2176",
+      "A2398",
+      "A2399",
+      "A2400"
+    ],
+    "released": "2020-11-13"
+  },
+  "iPhone13,2": {
+    "name": "iPhone 12",
+    "identifier": "iPhone13,2",
+    "soc": "A14",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D53gAP"
+    ],
+    "model": [
+      "A2172",
+      "A2402",
+      "A2403",
+      "A2404"
+    ],
+    "released": "2020-10-23"
+  },
+  "iPhone13,3": {
+    "name": "iPhone 12 Pro",
+    "identifier": "iPhone13,3",
+    "soc": "A14",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D53pAP"
+    ],
+    "model": [
+      "A2341",
+      "A2406",
+      "A2407",
+      "A2408"
+    ],
+    "released": "2020-10-23"
+  },
+  "iPhone13,4": {
+    "name": "iPhone 12 Pro Max",
+    "identifier": "iPhone13,4",
+    "soc": "A14",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D54pAP"
+    ],
+    "model": [
+      "A2342",
+      "A2410",
+      "A2411",
+      "A2412"
+    ],
+    "released": "2020-11-13"
+  },
+  "iPhone14,2": {
+    "name": "iPhone 13 Pro",
+    "identifier": "iPhone14,2",
+    "soc": "A15",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D63AP"
+    ],
+    "model": [
+      "A2483",
+      "A2636",
+      "A2638",
+      "A2639",
+      "A2640"
+    ],
+    "released": "2021-09-24"
+  },
+  "iPhone14,3": {
+    "name": "iPhone 13 Pro Max",
+    "identifier": "iPhone14,3",
+    "soc": "A15",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D64AP"
+    ],
+    "model": [
+      "A2484",
+      "A2641",
+      "A2643",
+      "A2644",
+      "A2645"
+    ],
+    "released": "2021-09-24"
+  },
+  "iPhone14,4": {
+    "name": "iPhone 13 mini",
+    "identifier": "iPhone14,4",
+    "soc": "A15",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D16AP"
+    ],
+    "model": [
+      "A2481",
+      "A2626",
+      "A2628",
+      "A2629",
+      "A2630"
+    ],
+    "released": "2021-09-24",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "A15",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 6,
+        "Performance_Cores": "2 @ 3.2GHz",
+        "Efficiency_Cores": "4",
+        "GPU_Core_Count": 4,
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ],
+        "RAM": "4GB @ 2133MHz"
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "2,406mAh",
+        "Battery_Life": "17 hours",
+        "Charger": "20W Lightning"
+      },
+      {
+        "type": "Connectivity",
+        "Ports": "1x Lightning",
+        "Cellular": [
+          "5G (sub-6 GHz and mmWave) with 4x4 MIMO7",
+          "Gigabit LTE with 4x4 MIMO and LAA7"
+        ],
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0",
+        "Ultra-wideband": true
+      },
+      {
+        "type": "Sensors",
+        "Front_Camera": [
+          "7MP camera",
+          "Æ’/2.2 aperture"
+        ],
+        "Back_Camera": [
+          "12MP Wide camera",
+          "Æ’/1.8 aperture",
+          "Optical image stabilization"
+        ],
+        "Ultawide_Camera": [
+          "12MP Ultrawide camera",
+          "Æ’/2.4 aperture",
+          "Optical image stabilization"
+        ],
+        "Biometrics": "Face ID sensor",
+        "Other": [
+          "Ambient Light Sensor",
+          "Accelerometer",
+          "Proximity sensor",
+          "Gyroscope",
+          "Compass",
+          "Barometer"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Channels": "Stereo",
+        "Dolby_Atmos": false,
+        "Headphone_Jack": false,
+        "Microphone": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 2340,
+          "y": 2340
+        },
+        "Screen_Size": "5.4\"",
+        "Refresh_Rate": "60 Hz",
+        "Peak_Brightness": [
+          "800 nits",
+          "1200 nits (HDR)"
+        ],
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": false,
+        "Pixels_per_Inch": 662
+      }
+    ]
+  },
+  "iPhone14,5": {
+    "name": "iPhone 13",
+    "identifier": "iPhone14,5",
+    "soc": "A15",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D17AP"
+    ],
+    "model": [
+      "A2482",
+      "A2631",
+      "A2633",
+      "A2634",
+      "A2635"
+    ],
+    "released": "2021-09-24",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "A15",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 6,
+        "Performance_Cores": "2 @ 3.2GHz",
+        "Efficiency_Cores": "4",
+        "GPU_Core_Count": 4,
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ],
+        "RAM": "4GB @ 2133MHz"
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "3,227mAh",
+        "Battery_Life": "19 hours",
+        "Charger": "20W Lightning"
+      },
+      {
+        "type": "Connectivity",
+        "Ports": "1x Lightning",
+        "Cellular": [
+          "5G (sub-6 GHz and mmWave) with 4x4 MIMO7",
+          "Gigabit LTE with 4x4 MIMO and LAA7"
+        ],
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0",
+        "Ultra-wideband": true
+      },
+      {
+        "type": "Sensors",
+        "Front_Camera": [
+          "7MP camera",
+          "Æ’/2.2 aperture"
+        ],
+        "Back_Camera": [
+          "12MP Wide camera",
+          "Æ’/1.8 aperture",
+          "Optical image stabilization"
+        ],
+        "Ultawide_Camera": [
+          "12MP Ultrawide camera",
+          "Æ’/2.4 aperture",
+          "Optical image stabilization"
+        ],
+        "Biometrics": "Face ID sensor",
+        "Other": [
+          "Ambient Light Sensor",
+          "Accelerometer",
+          "Proximity sensor",
+          "Gyroscope",
+          "Compass",
+          "Barometer"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Channels": "Stereo",
+        "Dolby_Atmos": false,
+        "Headphone_Jack": false,
+        "Microphone": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 1170,
+          "y": 2532
+        },
+        "Screen_Size": "6.1\"",
+        "Refresh_Rate": "60 Hz",
+        "Peak_Brightness": [
+          "800 nits",
+          "1200 nits (HDR)"
+        ],
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": false,
+        "Pixels_per_Inch": 465
+      }
+    ]
+  },
+  "iPhone14,6": {
+    "name": "iPhone SE (3rd generation)",
+    "identifier": "iPhone14,6",
+    "soc": "A15",
+    "arch": "arm64e",
+    "type": "iPhone",
+    "board": [
+      "D49AP"
+    ],
+    "model": [
+      "A2595",
+      "A2782",
+      "A2783",
+      "A2784",
+      "A2785"
+    ],
+    "released": "2022-03-18",
+    "info": [
+      {
+        "type": "SoC",
+        "SoC": "A15",
+        "Architecture": "arm64e (64-bit)",
+        "Manufacturing_Process": "5nm"
+      },
+      {
+        "type": "Cores",
+        "CPU_Core_Count": 6,
+        "Performance_Cores": "2 @ 3.2GHz",
+        "Efficiency_Cores": "4",
+        "GPU_Core_Count": 4,
+        "Neural_Engine_Core_Count": 16
+      },
+      {
+        "type": "Memory",
+        "Storage": [
+          "64GB",
+          "128GB",
+          "256GB"
+        ],
+        "RAM": "4GB"
+      },
+      {
+        "type": "Power",
+        "Battery_Capacity": "2,018mAh",
+        "Battery_Life": "15 hours",
+        "Charger": "18W Lightning"
+      },
+      {
+        "type": "Connectivity",
+        "Ports": "1x Lightning",
+        "Cellular": [
+          "5G (sub-6 GHz) with 2x2 MIMO7",
+          "LTE Advanced with 2x2 MIMO and LAA7"
+        ],
+        "Wi-Fi": "802.11ax Wi-Fi 6",
+        "Bluetooth": "5.0",
+        "Ultra-wideband": true
+      },
+      {
+        "type": "Sensors",
+        "Front_Camera": [
+          "7MP camera",
+          "Æ’/2.2 aperture"
+        ],
+        "Back_Camera": [
+          "12MP Wide camera",
+          "Æ’/1.8 aperture",
+          "Optical image stabilization"
+        ],
+        "Biometrics": "Touch ID sensor",
+        "Other": [
+          "Ambient Light Sensor",
+          "Accelerometer",
+          "Proximity sensor",
+          "Gyroscope",
+          "Compass",
+          "Barometer"
+        ]
+      },
+      {
+        "type": "Audio",
+        "Channels": "Stereo",
+        "Dolby_Atmos": false,
+        "Headphone_Jack": false,
+        "Microphone": true
+      },
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 750,
+          "y": 1334
+        },
+        "Screen_Size": "4.7\"",
+        "Refresh_Rate": "60 Hz",
+        "Peak_Brightness": "625 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "ProMotion": false,
+        "Pixels_per_Inch": 383
+      }
+    ]
+  },
+  "iPhone2,1": {
+    "name": "iPhone 3GS",
+    "identifier": "iPhone2,1",
+    "soc": "APL0298",
+    "arch": "armv7",
+    "type": "iPhone",
+    "released": "2009-06-19",
+    "discontinued": "2010-06-24",
+    "board": [
+      "N88AP"
+    ],
+    "model": [
+      "A1303",
+      "A1325"
+    ]
+  },
+  "iPhone3,1": {
+    "name": "iPhone 4 (GSM)",
+    "identifier": "iPhone3,1",
+    "soc": "A4",
+    "arch": "armv7",
+    "type": "iPhone",
+    "released": "2010-06-24",
+    "discontinued": "2013-09-10",
+    "board": [
+      "N90AP"
+    ],
+    "model": [
+      "A1332"
+    ]
+  },
+  "iPhone3,2": {
+    "name": "iPhone 4 (GSM, 2012)",
+    "identifier": "iPhone3,2",
+    "soc": "A4",
+    "arch": "armv7",
+    "type": "iPhone",
+    "released": "2011-08-04",
+    "discontinued": "2013-09-10",
+    "board": [
+      "N90BAP"
+    ],
+    "model": [
+      "A1332"
+    ]
+  },
+  "iPhone3,3": {
+    "name": "iPhone 4 (CDMA)",
+    "identifier": "iPhone3,3",
+    "soc": "A4",
+    "arch": "armv7",
+    "type": "iPhone",
+    "released": "2011-02-10",
+    "discontinued": "2013-09-10",
+    "board": [
+      "N92AP"
+    ],
+    "model": [
+      "A1349"
+    ]
+  },
+  "iPhone4,1": {
+    "name": "iPhone 4S",
+    "identifier": "iPhone4,1",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPhone",
+    "released": "2011-10-14",
+    "discontinued": "2013-09-20",
+    "board": [
+      "N94AP"
+    ],
+    "model": [
+      "A1387",
+      "A1431"
+    ]
+  },
+  "iPhone5,1": {
+    "name": "iPhone 5 (GSM)",
+    "identifier": "iPhone5,1",
+    "soc": "A6",
+    "arch": "armv7s",
+    "type": "iPhone",
+    "released": "2012-09-21",
+    "discontinued": "2013-09-10",
+    "board": [
+      "N41AP"
+    ],
+    "model": [
+      "A1428",
+      "A1429"
+    ]
+  },
+  "iPhone5,2": {
+    "name": "iPhone 5 (CDMA)",
+    "identifier": "iPhone5,2",
+    "soc": "A6",
+    "arch": "armv7s",
+    "type": "iPhone",
+    "released": "2012-09-21",
+    "discontinued": "2013-09-10",
+    "board": [
+      "N42AP"
+    ],
+    "model": [
+      "A1429",
+      "A1442"
+    ]
+  },
+  "iPhone5,3": {
+    "name": "iPhone 5c (GSM)",
+    "identifier": "iPhone5,3",
+    "soc": "A6",
+    "arch": "armv7s",
+    "type": "iPhone",
+    "released": "2013-09-20",
+    "discontinued": "2015-09-09",
+    "board": [
+      "N48AP"
+    ],
+    "model": [
+      "A1456",
+      "A1532"
+    ]
+  },
+  "iPhone5,4": {
+    "name": "iPhone 5c (CDMA)",
+    "identifier": "iPhone5,4",
+    "soc": "A6",
+    "arch": "armv7s",
+    "type": "iPhone",
+    "released": "2013-09-20",
+    "discontinued": "2015-09-09",
+    "board": [
+      "N49AP"
+    ],
+    "model": [
+      "A1507",
+      "A1516",
+      "A1526",
+      "A1529"
+    ]
+  },
+  "iPhone6,1": {
+    "name": "iPhone 5s (GSM)",
+    "identifier": "iPhone6,1",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2013-09-20",
+    "discontinued": "2016-03-21",
+    "board": [
+      "N51AP"
+    ],
+    "model": [
+      "A1453",
+      "A1533"
+    ]
+  },
+  "iPhone6,2": {
+    "name": "iPhone 5s (CDMA)",
+    "identifier": "iPhone6,2",
+    "soc": "A7",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2013-09-20",
+    "discontinued": "2016-03-21",
+    "board": [
+      "N53AP"
+    ],
+    "model": [
+      "A1457",
+      "A1518",
+      "A1528",
+      "A1530"
+    ]
+  },
+  "iPhone7,1": {
+    "name": "iPhone 6 Plus",
+    "identifier": "iPhone7,1",
+    "soc": "A8",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2014-09-14",
+    "discontinued": "2018-09-12",
+    "board": [
+      "N56AP"
+    ],
+    "model": [
+      "A1522",
+      "A1524",
+      "A1593"
+    ]
+  },
+  "iPhone7,2": {
+    "name": "iPhone 6",
+    "identifier": "iPhone7,2",
+    "soc": "A8",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2014-09-14",
+    "discontinued": "2018-09-12",
+    "board": [
+      "N61AP"
+    ],
+    "model": [
+      "A1549",
+      "A1586",
+      "A1589"
+    ]
+  },
+  "iPhone8,1": {
+    "name": "iPhone 6s",
+    "identifier": "iPhone8,1",
+    "soc": "A9",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2015-09-25",
+    "discontinued": "2018-09-12",
+    "board": [
+      "N71AP",
+      "N71mAP"
+    ],
+    "model": [
+      "A1633",
+      "A1688",
+      "A1691",
+      "A1700"
+    ]
+  },
+  "iPhone8,2": {
+    "name": "iPhone 6s Plus",
+    "identifier": "iPhone8,2",
+    "soc": "A9",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2015-09-25",
+    "discontinued": "2018-09-12",
+    "board": [
+      "N66AP",
+      "N66mAP"
+    ],
+    "model": [
+      "A1634",
+      "A1687",
+      "A1690",
+      "A1699"
+    ]
+  },
+  "iPhone8,4": {
+    "name": "iPhone SE (1st generation)",
+    "identifier": "iPhone8,4",
+    "soc": "A9",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2016-03-21",
+    "discontinued": "2018-09-12",
+    "board": [
+      "N69AP",
+      "N69uAP"
+    ],
+    "model": [
+      "A1662",
+      "A1723",
+      "A1724"
+    ]
+  },
+  "iPhone9,1": {
+    "name": "iPhone 7 (CDMA)",
+    "identifier": "iPhone9,1",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2016-09-07",
+    "discontinued": "2019-09-10",
+    "board": [
+      "D10AP"
+    ],
+    "model": [
+      "A1660",
+      "A1779",
+      "A1780"
+    ]
+  },
+  "iPhone9,2": {
+    "name": "iPhone 7 Plus (CDMA)",
+    "identifier": "iPhone9,2",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2016-09-07",
+    "discontinued": "2019-09-10",
+    "board": [
+      "D11AP"
+    ],
+    "model": [
+      "A1661",
+      "A1785",
+      "A1786"
+    ]
+  },
+  "iPhone9,3": {
+    "name": "iPhone 7 (GSM)",
+    "identifier": "iPhone9,3",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2016-09-07",
+    "discontinued": "2019-09-10",
+    "board": [
+      "D101AP"
+    ],
+    "model": [
+      "A1778"
+    ]
+  },
+  "iPhone9,4": {
+    "name": "iPhone 7 Plus (GSM)",
+    "identifier": "iPhone9,4",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPhone",
+    "released": "2016-09-07",
+    "discontinued": "2019-09-10",
+    "board": [
+      "D111AP"
+    ],
+    "model": [
+      "A1784"
+    ]
+  },
+  "iPod (5th generation Late 2006)": {
+    "name": "iPod (5th generation Late 2006)",
+    "type": "iPod",
+    "model": [
+      "A1238"
+    ],
+    "released": "2006-09-12",
+    "identifier": "iPod (5th generation Late 2006)",
+    "board": []
+  },
+  "iPod (5th generation)": {
+    "name": "iPod (5th generation)",
+    "type": "iPod",
+    "model": [
+      "A1238"
+    ],
+    "released": "2005-10-12",
+    "identifier": "iPod (5th generation)",
+    "board": []
+  },
+  "iPod (Click Wheel)": {
+    "name": "iPod (Click Wheel)",
+    "type": "iPod",
+    "model": [
+      "A1059"
+    ],
+    "released": "2004-07-13",
+    "identifier": "iPod (Click Wheel)",
+    "board": []
+  },
+  "iPod (Dock Connector)": {
+    "name": "iPod (Dock Connector)",
+    "type": "iPod",
+    "model": [
+      "A1040"
+    ],
+    "released": [
+      "2003-04-29",
+      "2003-09-08"
+    ],
+    "identifier": "iPod (Dock Connector)",
+    "board": []
+  },
+  "iPod (Scroll Wheel)": {
+    "name": "iPod (Scroll Wheel)",
+    "type": "iPod",
+    "model": [
+      "M8541"
+    ],
+    "soc": "PP5002B",
+    "released": [
+      "2001-11-10",
+      "2002-03-20"
+    ],
+    "identifier": "iPod (Scroll Wheel)",
+    "board": []
+  },
+  "iPod (Touch Wheel)": {
+    "name": "iPod (Touch Wheel)",
+    "type": "iPod",
+    "model": [
+      "A1019"
+    ],
+    "soc": "PP5002B",
+    "released": "2002-07-17",
+    "identifier": "iPod (Touch Wheel)",
+    "board": []
+  },
+  "iPod classic (120 GB)": {
+    "name": "iPod classic (120 GB)",
+    "type": "iPod",
+    "model": [
+      "A1238"
+    ],
+    "released": "2008-09-09",
+    "identifier": "iPod classic (120 GB)",
+    "board": []
+  },
+  "iPod classic 160 GB (Late 2009)": {
+    "name": "iPod classic 160 GB (Late 2009)",
+    "type": "iPod",
+    "model": [
+      "A1238"
+    ],
+    "released": "2009-09-09",
+    "identifier": "iPod classic 160 GB (Late 2009)",
+    "board": []
+  },
+  "iPod classic": {
+    "name": "iPod classic",
+    "type": "iPod",
+    "model": [
+      "A1238"
+    ],
+    "released": "2007-09-05",
+    "identifier": "iPod classic",
+    "board": []
+  },
+  "iPod photo": {
+    "name": "iPod photo",
+    "type": "iPod",
+    "model": [
+      "A1099"
+    ],
+    "released": [
+      "2004-10-26",
+      "2005-02-25"
+    ],
+    "identifier": "iPod photo",
+    "board": []
+  },
+  "iPod with color display": {
+    "name": "iPod with color display",
+    "type": "iPod",
+    "model": [
+      "A1099"
+    ],
+    "released": "2005-06-28",
+    "identifier": "iPod with color display",
+    "board": []
+  },
+  "iPod shuffle (2nd generation)": {
+    "name": "iPod shuffle (2nd generation)",
+    "type": "iPod shuffle",
+    "model": [
+      "A1204"
+    ],
+    "released": [
+      "2006-11-03",
+      "2008-02-19"
+    ],
+    "identifier": "iPod shuffle (2nd generation)",
+    "board": []
+  },
+  "iPod shuffle (3rd generation Late 2009)": {
+    "name": "iPod shuffle (3rd generation Late 2009)",
+    "type": "iPod shuffle",
+    "model": [
+      "A1271"
+    ],
+    "released": "2009-09-09",
+    "identifier": "iPod shuffle (3rd generation Late 2009)",
+    "board": []
+  },
+  "iPod shuffle (3rd generation)": {
+    "name": "iPod shuffle (3rd generation)",
+    "type": "iPod shuffle",
+    "model": [
+      "A1271"
+    ],
+    "released": "2009-03-11",
+    "identifier": "iPod shuffle (3rd generation)",
+    "board": []
+  },
+  "iPod shuffle (4th generation Late 2012)": {
+    "name": "iPod shuffle (4th generation Late 2012)",
+    "type": "iPod shuffle",
+    "model": [
+      "A1373"
+    ],
+    "released": "2012-09-12",
+    "identifier": "iPod shuffle (4th generation Late 2012)",
+    "board": []
+  },
+  "iPod shuffle (4th generation Mid 2015)": {
+    "name": "iPod shuffle (4th generation Mid 2015)",
+    "type": "iPod shuffle",
+    "model": [
+      "A1373"
+    ],
+    "released": "2015-07-15",
+    "identifier": "iPod shuffle (4th generation Mid 2015)",
+    "board": []
+  },
+  "iPod shuffle (4th generation)": {
+    "name": "iPod shuffle (4th generation)",
+    "type": "iPod shuffle",
+    "model": [
+      "A1373"
+    ],
+    "released": "2010-09-01",
+    "identifier": "iPod shuffle (4th generation)",
+    "board": []
+  },
+  "iPod shuffle": {
+    "name": "iPod shuffle",
+    "type": "iPod shuffle",
+    "model": [
+      "A1112"
+    ],
+    "released": "2005-01-11",
+    "soc": "SigmaTel STMP35xx",
+    "identifier": "iPod shuffle",
+    "board": []
+  },
+  "iPod mini (2nd generation)": {
+    "name": "iPod mini (2nd generation)",
+    "type": "iPod mini",
+    "model": [
+      "A1051"
+    ],
+    "released": "2005-02-23",
+    "identifier": "iPod mini (2nd generation)",
+    "board": []
+  },
+  "iPod mini": {
+    "name": "iPod mini",
+    "type": "iPod mini",
+    "model": [
+      "A1051"
+    ],
+    "released": "2004-02-20",
+    "identifier": "iPod mini",
+    "board": []
+  },
+  "iPod nano (2nd generation)": {
+    "name": "iPod nano (2nd generation)",
+    "type": "iPod nano",
+    "model": [
+      "A1199"
+    ],
+    "released": "2006-09-25",
+    "identifier": "iPod nano (2nd generation)",
+    "board": []
+  },
+  "iPod nano (3rd generation)": {
+    "name": "iPod nano (3rd generation)",
+    "type": "iPod nano",
+    "model": [
+      "A1236"
+    ],
+    "released": "2007-09-05",
+    "identifier": "iPod nano (3rd generation)",
+    "board": []
+  },
+  "iPod nano (4th generation)": {
+    "name": "iPod nano (4th generation)",
+    "type": "iPod nano",
+    "model": [
+      "A1285"
+    ],
+    "released": "2008-09-09",
+    "identifier": "iPod nano (4th generation)",
+    "board": []
+  },
+  "iPod nano (5th generation)": {
+    "name": "iPod nano (5th generation)",
+    "type": "iPod nano",
+    "model": [
+      "A1320"
+    ],
+    "released": "2009-09-09",
+    "identifier": "iPod nano (5th generation)",
+    "board": []
+  },
+  "iPod nano (6th generation)": {
+    "name": "iPod nano (6th generation)",
+    "type": "iPod nano",
+    "model": [
+      "A1366"
+    ],
+    "released": "2010-09-01",
+    "identifier": "iPod nano (6th generation)",
+    "board": []
+  },
+  "iPod nano (7th generation Mid 2015)": {
+    "name": "iPod nano (7th generation Mid 2015)",
+    "type": "iPod nano",
+    "model": [
+      "A1446"
+    ],
+    "released": "2015-07-15",
+    "identifier": "iPod nano (7th generation Mid 2015)",
+    "board": []
+  },
+  "iPod nano (7th generation)": {
+    "name": "iPod nano (7th generation)",
+    "type": "iPod nano",
+    "model": [
+      "A1446"
+    ],
+    "released": "2012-09-12",
+    "identifier": "iPod nano (7th generation)",
+    "board": []
+  },
+  "iPod nano": {
+    "name": "iPod nano",
+    "type": "iPod nano",
+    "model": [
+      "A1137"
+    ],
+    "released": [
+      "2005-09-07",
+      "2006-02-07"
+    ],
+    "identifier": "iPod nano",
+    "board": []
+  },
+  "iPod1,1": {
+    "name": "iPod touch (1st generation)",
+    "identifier": "iPod1,1",
+    "soc": "APL0098",
+    "arch": "armv6",
+    "type": "iPod touch",
+    "board": [
+      "M45AP"
+    ],
+    "model": [
+      "A1213"
+    ],
+    "released": "2007-09-05"
+  },
+  "iPod2,1": {
+    "name": "iPod touch (2nd generation)",
+    "identifier": "iPod2,1",
+    "soc": "APL0278",
+    "arch": "armv6",
+    "type": "iPod touch",
+    "board": [
+      "N72AP"
+    ],
+    "model": [
+      "A1288",
+      "A1319"
+    ],
+    "released": [
+      "2008-09-09",
+      "2009-09-09"
+    ]
+  },
+  "iPod3,1": {
+    "name": "iPod touch (3rd generation)",
+    "identifier": "iPod3,1",
+    "soc": "APL2298",
+    "arch": "armv7",
+    "type": "iPod touch",
+    "board": [
+      "N18AP"
+    ],
+    "model": [
+      "A1318"
+    ],
+    "released": "2009-09-09"
+  },
+  "iPod4,1": {
+    "name": "iPod touch (4th generation)",
+    "identifier": "iPod4,1",
+    "soc": "A4",
+    "arch": "armv7",
+    "type": "iPod touch",
+    "board": [
+      "N81AP"
+    ],
+    "model": [
+      "A1367"
+    ],
+    "released": [
+      "2010-09-01",
+      "2011-10-04",
+      "2012-09-12"
+    ]
+  },
+  "iPod5,1": {
+    "name": "iPod touch (5th generation)",
+    "identifier": "iPod5,1",
+    "soc": "A5",
+    "arch": "armv7",
+    "type": "iPod touch",
+    "board": [
+      "N78AP"
+    ],
+    "model": [
+      "A1421",
+      "A1509"
+    ],
+    "released": [
+      "2012-09-12",
+      "2013-05-30",
+      "2014-06-26"
+    ]
+  },
+  "iPod7,1": {
+    "name": "iPod touch (6th generation)",
+    "identifier": "iPod7,1",
+    "soc": "A8",
+    "arch": "arm64",
+    "type": "iPod touch",
+    "board": [
+      "N102AP"
+    ],
+    "model": [
+      "A1574"
+    ],
+    "released": "2015-07-15"
+  },
+  "iPod9,1": {
+    "name": "iPod touch (7th generation)",
+    "identifier": "iPod9,1",
+    "soc": "A10",
+    "arch": "arm64",
+    "type": "iPod touch",
+    "board": [
+      "N112AP"
+    ],
+    "model": [
+      "A2178"
+    ],
+    "released": "2019-05-28"
+  },
+  "iSim1,1": {
+    "name": "Pro Display XDR",
+    "identifier": "iSim1,1",
+    "type": "Display",
+    "model": [
+      "A1999"
+    ],
+    "board": [
+      "J290AP"
+    ],
+    "released": "2019-06-03",
+    "info": [
+      {
+        "type": "Display",
+        "Resolution": {
+          "x": 6016,
+          "y": 3384
+        },
+        "Screen_Size": "32\"",
+        "Refresh_Rate": "60 Hz",
+        "Peak_Brightness": "1600 nits",
+        "Color_Gamut": "P3",
+        "True_Tone": true,
+        "Pixels_per_Inch": 216
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "osStr": "iPhoneOS",
+  "version": "2.0 beta 3",
+  "build": "5A240d",
+  "released": "2008-04-08",
+  "beta": true,
+  "deviceMap": [],
+  "uniqueBuild": "5A240d",
+  "sortVersion": "2.0 beta 3",
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware.html?os=iPhoneOS&build=5A240d%7D"
+}

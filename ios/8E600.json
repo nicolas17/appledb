@@ -1,0 +1,37 @@
+{
+  "osStr": "iOS",
+  "version": "4.2.10",
+  "build": "8E600",
+  "released": "2011-07-21",
+  "deviceMap": [
+    "iPhone3,3"
+  ],
+  "sources": [
+    {
+      "deviceMap": [
+        "iPhone3,3"
+      ],
+      "type": "ipsw",
+      "host": [
+        {
+          "value": "http://appldnld.apple.com",
+          "properties": [
+            "preferred",
+            "active"
+          ]
+        }
+      ],
+      "path": "/iPhone4/041-1959.20110721.jvP29/iPhone3,3_4.2.10_8E600_Restore.ipsw"
+    }
+  ],
+  "uniqueBuild": "8E600",
+  "beta": false,
+  "sortVersion": "4.2.10",
+  "osType": "iOS",
+  "devices": {
+    "iPhone3,3": {
+      "ipsw": "http://appldnld.apple.com/iPhone4/041-1959.20110721.jvP29/iPhone3,3_4.2.10_8E600_Restore.ipsw"
+    }
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=iOS&build=8E600%7D"
+}

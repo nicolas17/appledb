@@ -1,0 +1,9 @@
+{
+  "name": "JustBeats Solo",
+  "type": "Beats Headphones",
+  "order": 3,
+  "devices": [
+    "JustBeats Solo"
+  ],
+  "hideChildren": false
+}

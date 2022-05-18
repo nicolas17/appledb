@@ -1,0 +1,11 @@
+{
+  "name": "Beats Tour²",
+  "type": "Beats Earbuds",
+  "order": 7,
+  "devices": [
+    "Beats Tour²",
+    "Beats Tour² MCM Edition",
+    "Beats Tour 2.5"
+  ],
+  "hideChildren": false
+}

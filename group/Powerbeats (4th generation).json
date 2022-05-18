@@ -1,0 +1,10 @@
+{
+  "name": "Powerbeats (4th generation)",
+  "type": "Beats Earbuds",
+  "order": 15,
+  "devices": [
+    "Powerbeats (4th generation)",
+    "Powerbeats (4th generation) AMBUSH Glow Edition"
+  ],
+  "hideChildren": false
+}

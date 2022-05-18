@@ -1,0 +1,9 @@
+{
+  "name": "urBeats²",
+  "type": "Beats Earbuds",
+  "order": 10,
+  "devices": [
+    "urBeats²"
+  ],
+  "hideChildren": false
+}

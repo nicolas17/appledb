@@ -1,0 +1,18 @@
+{
+  "name": "Beats Studio³ Wireless",
+  "type": "Beats Headphones",
+  "order": 10,
+  "devices": [
+    "Beats Studio³ Wireless",
+    "Beats Studio³ Wireless ACW* Edition",
+    "Beats Studio³ Wireless Psychworld Edition",
+    "Beats Studio³ Wireless FaZe Clan Edition",
+    "Beats Studio³ Wireless NBA Collection",
+    "Beats Studio³ Wireless Ghetto Gastro Edition",
+    "Beats Studio³ Wireless DJ Khaled Edition",
+    "Beats Studio³ Wireless Cosmophone",
+    "Beats Studio³ Wireless Neymar Jr. Custom Edition",
+    "Beats Studio³ Wireless Violet Grey Edition"
+  ],
+  "hideChildren": false
+}

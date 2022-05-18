@@ -1,0 +1,9 @@
+{
+  "name": "Beats Fit Pro",
+  "type": "Beats Earbuds",
+  "order": 18,
+  "devices": [
+    "Beats Fit Pro"
+  ],
+  "hideChildren": false
+}

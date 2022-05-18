@@ -1,0 +1,13 @@
+{
+  "osStr": "iOS",
+  "version": "4.2 beta 3",
+  "build": "8C5115c",
+  "released": "2010-10-12",
+  "beta": true,
+  "deviceMap": [],
+  "uniqueBuild": "8C5115c",
+  "sortVersion": "4.2 beta 3",
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware.html?os=iOS&build=8C5115c%7D"
+}

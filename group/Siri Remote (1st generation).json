@@ -1,0 +1,9 @@
+{
+  "name": "Siri Remote (1st generation)",
+  "type": "Remote",
+  "order": 2,
+  "devices": [
+    "Siri Remote (1st generation)"
+  ],
+  "hideChildren": false
+}

@@ -1,0 +1,9 @@
+{
+  "name": "iPhone XS Smart Battery Case",
+  "type": "Power",
+  "order": 4,
+  "devices": [
+    "iPhone XS Smart Battery Case"
+  ],
+  "hideChildren": false
+}

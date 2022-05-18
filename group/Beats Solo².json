@@ -1,0 +1,11 @@
+{
+  "name": "Beats Solo²",
+  "type": "Beats Headphones",
+  "order": 6,
+  "devices": [
+    "Beats Solo²",
+    "Beats Solo² Hello Kitty Edition",
+    "Beats Solo² fragment design Edition"
+  ],
+  "hideChildren": false
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Powerbeats²",
+  "type": "Beats Earbuds",
+  "order": 9,
+  "devices": [
+    "Powerbeats²"
+  ],
+  "hideChildren": false
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Powerbeats³ Wireless",
+  "type": "Beats Earbuds",
+  "order": 11,
+  "devices": [
+    "Powerbeats³ Wireless",
+    "Powerbeats³ Wireless Balmain Edition"
+  ],
+  "hideChildren": false
+}

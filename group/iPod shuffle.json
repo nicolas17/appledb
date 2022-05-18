@@ -1,0 +1,9 @@
+{
+  "name": "iPod shuffle",
+  "type": "iPod shuffle",
+  "devices": [
+    "iPod shuffle"
+  ],
+  "hideChildren": false,
+  "order": 0
+}

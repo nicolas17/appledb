@@ -1,0 +1,17 @@
+{
+  "osStr": "Bluetooth Headset Firmware",
+  "version": "2.2.1",
+  "build": "2.2.1",
+  "deviceMap": [
+    "Beats Studio³ Wireless"
+  ],
+  "uniqueBuild": "2.2.1",
+  "beta": false,
+  "sortVersion": "2.2.1",
+  "released": -1,
+  "osType": "Bluetooth Headset Firmware",
+  "devices": {
+    "Beats Studio³ Wireless": {}
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=Bluetooth%20Headset%20Firmware&build=2.2.1%7D"
+}

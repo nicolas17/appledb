@@ -1,0 +1,9 @@
+{
+  "name": "Beats Mixr",
+  "type": "Beats Headphones",
+  "order": 4,
+  "devices": [
+    "Beats Mixr"
+  ],
+  "hideChildren": false
+}

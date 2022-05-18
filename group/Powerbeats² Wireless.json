@@ -1,0 +1,11 @@
+{
+  "name": "Powerbeats² Wireless",
+  "type": "Beats Earbuds",
+  "order": 8,
+  "devices": [
+    "Powerbeats² Wireless",
+    "Powerbeats² Wireless UNDERCOVER Edition",
+    "Powerbeats² Wireless KITH Edition"
+  ],
+  "hideChildren": false
+}

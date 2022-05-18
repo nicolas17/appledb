@@ -1,0 +1,12 @@
+{
+  "name": "Siri Remote (1st generation)",
+  "type": "Remote",
+  "board": [
+    "B239AP"
+  ],
+  "model": [
+    "A1513"
+  ],
+  "released": "2015-10-26",
+  "identifier": "Siri Remote (1st generation)"
+}
