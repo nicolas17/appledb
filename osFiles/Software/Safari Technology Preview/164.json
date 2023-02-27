@@ -5,5 +5,37 @@
   "beta": true,
   "deviceMap": [
     "Safari Technology Preview"
+  ],
+  "_sources": [
+    {
+      "type": "dmg",
+      "os": "macOS13",
+      "url": "https://secure-appldnld.apple.com/STP/032-53005-20230221-426C62F5-55E0-43DF-AC6D-22F5D5C9B22D/SafariTechnologyPreview.dmg",
+      "hashes": {
+        "md5": "0f8b69b9eaa11da51653576bda4f5a7f"
+      },
+      "size": 131273163
+    },
+    {
+      "type": "dmg",
+      "os": "macOS12",
+      "url": "https://secure-appldnld.apple.com/STP/032-53003-20230221-7D8A058C-D80B-45DB-972D-33C/SafariTechnologyPreview.dmg",
+      "hashes": {
+        "md5": "c7fb16af67059c41b6e507a657489318"
+      },
+      "size": 129815157
+    },
+    {
+      "type": "pkg",
+      "os": "macOS13",
+      "url": "https://swcdn.apple.com/content/downloads/20/15/032-53004-A_3BGO1MLMU1/qux1dhqczge8z5p8oe23rw3qjxuu723ivr/SafariTechPreview.pkg",
+      "size": 131217593
+    },
+    {
+      "type": "pkg",
+      "os": "macOS12",
+      "url": "https://swcdn.apple.com/content/downloads/39/49/032-53002-A_88M420ISPF/ixkiermoc9h3dvwcsugynzt1o3ao9rf67k/SafariTechPreview.pkg",
+      "size": 129789960
+    }
   ]
 }
